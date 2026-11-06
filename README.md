@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Travel Platform
 
 O'zbekistonlik sayohatchilar uchun xalqaro sayohat platformasi (Laravel 13, PHP 8.4, Tailwind 4, Alpine.js, Leaflet, Chart.js).
@@ -47,3 +48,7 @@ Kurslarni avtomatik yangilash uchun cron: `* * * * * php artisan schedule:run` (
 
 ## Testlar
 `php artisan test` (SQLite xotirada).
+=======
+# Travel_platform
+Sayohatni oson rejalashtirish 
+>>>>>>> e9c3c91b88fd5af5e3e7a563cfa4bf8a375572e6
