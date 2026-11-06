@@ -1,0 +1,159 @@
+panel|Admin panel|Панель администратора|Admin panel|Әкімші панелі|Администратор панели|Admin paneli
+dashboard|Boshqaruv paneli|Панель управления|Dashboard|Басқару панелі|Башкаруу панели|Basqarıw paneli
+overview|Umumiy ko'rinish|Обзор|Overview|Шолу|Сереп|Ulıwma kóriniw
+content|Kontent|Контент|Content|Контент|Контент|Kontent
+system|Tizim|Система|System|Жүйе|Система|Sistema
+back_to_site|Saytga qaytish|Вернуться на сайт|Back to site|Сайтқа оралу|Сайтка кайтуу|Saytqa qaytıw
+add|Qo'shish|Добавить|Add|Қосу|Кошуу|Qosıw
+remove|O'chirish|Удалить|Remove|Жою|Өчүрүү|Óshiriw
+countries|Mamlakatlar|Страны|Countries|Елдер|Өлкөлөр|Mámleketler
+cities|Shaharlar|Города|Cities|Қалалар|Шаарлар|Qalalar
+airports|Aeroportlar|Аэропорты|Airports|Әуежайлар|Аэропорттор|Aeroportlar
+attractions|Diqqatga sazovor joylar|Достопримечательности|Attractions|Көрікті жерлер|Көрүнүктүү жерлер|Kórikli jerler
+hotels|Mehmonxonalar|Отели|Hotels|Қонақүйлер|Мейманканалар|Meymanxanalar
+restaurants|Restoranlar|Рестораны|Restaurants|Мейрамханалар|Ресторандар|Restoranlar
+airlines|Aviakompaniyalar|Авиакомпании|Airlines|Әуекомпаниялар|Авиакомпаниялар|Aviakompaniyalar
+flights|Reyslar|Рейсы|Flights|Рейстер|Рейстер|Reyslar
+visas|Viza ma'lumotlari|Визовые данные|Visa information|Виза ақпараты|Виза маалыматы|Viza maǵlıwmatları
+transport|Transport xizmatlari|Транспортные услуги|Transport services|Көлік қызметтері|Транспорт кызматтары|Transport xızmetleri
+guides|Qo'llanmalar|Руководства|Travel guides|Нұсқаулықтар|Колдонмолор|Gidlar
+users|Foydalanuvchilar|Пользователи|Users|Пайдаланушылар|Колдонуучулар|Paydalanıwshılar
+currencies|Valyutalar|Валюты|Currencies|Валюталар|Валюталар|Valyutalar
+settings|Sozlamalar|Настройки|Settings|Баптаулар|Жөндөөлөр|Sazlamalar
+stat_users|Foydalanuvchilar|Пользователи|Users|Пайдаланушылар|Колдонуучулар|Paydalanıwshılar
+stat_countries|Mamlakatlar|Страны|Countries|Елдер|Өлкөлөр|Mámleketler
+stat_cities|Shaharlar|Города|Cities|Қалалар|Шаарлар|Qalalar
+stat_attractions|Diqqatga sazovor joylar|Достопримечательности|Attractions|Көрікті жерлер|Көрүнүктүү жерлер|Kórikli jerler
+stat_hotels|Mehmonxonalar|Отели|Hotels|Қонақүйлер|Мейманканалар|Meymanxanalar
+stat_restaurants|Restoranlar|Рестораны|Restaurants|Мейрамханалар|Ресторандар|Restoranlar
+stat_plans|Sayohat rejalari|Планы поездок|Travel plans|Саяхат жоспарлары|Саякат пландары|Sayaxat rejeleri
+recent_users|So'nggi ro'yxatdan o'tganlar|Недавние регистрации|Recent registrations|Соңғы тіркелгендер|Акыркы катталгандар|Aqırǵı dizimnen ótkenler
+recent_activity|So'nggi harakatlar|Последняя активность|Recent activity|Соңғы әрекеттер|Акыркы аракеттер|Aqırǵı háreketler
+role_super_admin|Super Admin|Суперадминистратор|Super Admin|Супер әкімші|Супер администратор|Super Admin
+role_admin|Admin|Администратор|Admin|Әкімші|Администратор|Admin
+role_editor|Muharrir|Редактор|Editor|Редактор|Редактор|Redaktor
+role_user|Foydalanuvchi|Пользователь|User|Пайдаланушы|Колдонуучу|Paydalanıwshı
+registered|Ro'yxatdan o'tgan sana|Дата регистрации|Registered|Тіркелген күні|Катталган күнү|Dizimnen ótken sáne
+active|Faol|Активен|Active|Белсенді|Активдүү|Aktiv
+suspended|To'xtatilgan|Заблокирован|Suspended|Тоқтатылған|Токтотулган|Toqtatılǵan
+suspend_account|Hisobni to'xtatish|Заблокировать аккаунт|Suspend account|Аккаунтты тоқтату|Аккаунтту токтотуу|Akkauntı toqtatıw
+delete_account|Hisobni o'chirish|Удалить аккаунт|Delete account|Аккаунтты жою|Аккаунтту өчүрүү|Akkauntı óshiriw
+edit_user|Foydalanuvchini tahrirlash|Редактирование пользователя|Edit user|Пайдаланушыны өңдеу|Колдонуучуну түзөтүү|Paydalanıwshını ózgertiw
+translation_hint|O'zbekcha matn majburiy. Boshqa tillar bo'sh bo'lsa, o'zbekcha ko'rsatiladi.|Узбекский текст обязателен. Если другие языки пусты, показывается узбекский.|Uzbek text is required. If other languages are empty, Uzbek is shown.|Өзбекше мәтін міндетті. Басқа тілдер бос болса, өзбекше көрсетіледі.|Өзбекче текст милдеттүү. Башка тилдер бош болсо, өзбекче көрсөтүлөт.|Ózbekshe tekst májbúriy. Basqa tiller bos bolsa, ózbekshe kórsetiledi.
+csv_hint|vergul bilan ajrating|через запятую|comma separated|үтірмен бөліңіз|үтүр менен бөлүңүз|útir menen bóliń
+kv_hint|har qatorda: kalit=qiymat|в каждой строке: ключ=значение|one per line: key=value|әр жолда: кілт=мән|ар бир сапта: ачкыч=маани|hár qatarda: gilt=mánis
+provider|Provayder|Провайдер|Provider|Провайдер|Провайдер|Provayder
+last_update|Oxirgi yangilanish|Последнее обновление|Last update|Соңғы жаңарту|Акыркы жаңыртуу|Aqırǵı jańalanıw
+stale|Eskirgan|Устарело|Outdated|Ескірген|Эскирген|Eskirgen
+fresh|Yangi|Актуально|Up to date|Өзекті|Актуалдуу|Jańa
+refresh_now|Hozir yangilash|Обновить сейчас|Refresh now|Қазір жаңарту|Азыр жаңыртуу|Házir jańalaw
+rate_per_usd|1 USD = ?|1 USD = ?|1 USD = ?|1 USD = ?|1 USD = ?|1 USD = ?
+source|Manba|Источник|Source|Дереккөз|Булак|Derek
+manual|Qo'lda|Вручную|Manual|Қолмен|Кол менен|Qolda
+currency_note|Qo'lda belgilangan kurslar avtomatik yangilanishda o'zgarmaydi. Provayder ishlamasa, oxirgi saqlangan kurs ishlatiladi va «eskirgan» deb belgilanadi.|Курсы, заданные вручную, не меняются при автообновлении. Если провайдер недоступен, используется последний сохранённый курс с пометкой «устарело».|Manually set rates are not changed by auto-updates. If the provider is down, the last saved rate is used and flagged as outdated.|Қолмен орнатылған бағамдар автоматты жаңартуда өзгермейді.|Кол менен коюлган курстар автоматтык жаңыртууда өзгөрбөйт.|Qolda belgilengen kurslar avtomat jańalanıwda ózgermeydi.
+branding|Brend|Брендинг|Branding|Брендинг|Брендинг|Brending
+app_name|Sayt nomi|Название сайта|Site name|Сайт атауы|Сайт аталышы|Sayt atı
+tagline|Shior|Слоган|Tagline|Ұран|Ураан|Ġıyır
+logo|Logotip|Логотип|Logo|Логотип|Логотип|Logotip
+contact_email|Aloqa e-pochtasi|Контактный email|Contact email|Байланыс поштасы|Байланыш почтасы|Baylanıs pochtası
+footer_text|Footer matni|Текст в подвале|Footer text|Төменгі мәтін|Футер тексти|Footer teksti
+seo_description|SEO tavsifi|SEO-описание|SEO description|SEO сипаттамасы|SEO сүрөттөмөсү|SEO táripi
+announcement|E'lon (yuqori banner)|Объявление (верхний баннер)|Announcement (top banner)|Хабарландыру (жоғарғы баннер)|Жарыя (жогорку баннер)|Járiya (joqarı banner)
+languages|Tillar|Языки|Languages|Тілдер|Тилдер|Tiller
+uz_always|O'zbek tili doim yoqilgan bo'ladi.|Узбекский язык всегда включён.|Uzbek is always enabled.|Өзбек тілі әрдайым қосулы.|Өзбек тили дайыма иштетилген.|Ózbek tili hámme waqıt qosılǵan.
+home_sections|Bosh sahifa bo'limlari|Разделы главной страницы|Homepage sections|Басты бет бөлімдері|Башкы бет бөлүмдөрү|Bas bet bólimleri
+section_trending|Trend yo'nalishlar|Тренды|Trending|Трендтер|Трендер|Trendler
+section_budget|Hamyonbop yo'nalishlar|Бюджетные направления|Budget-friendly|Қалтаға қолайлы|Чүнүңүзгө ылайык|Hamiyanǵa qolaylı
+section_hotels|Mehmonxonalar|Отели|Hotels|Қонақүйлер|Мейманканалар|Meymanxanalar
+section_restaurants|Restoranlar|Рестораны|Restaurants|Мейрамханалар|Ресторандар|Restoranlar
+section_map|Xarita|Карта|Map|Карта|Карта|Karta
+section_planner|AI rejalovchi|AI-планировщик|AI planner|AI жоспарлаушы|AI пландоочу|AI rejelestiriwshi
+section_guides|Qo'llanmalar|Руководства|Guides|Нұсқаулықтар|Колдонмолор|Gidlar
+api_config|API sozlamalari|Настройки API|API configuration|API баптаулары|API жөндөөлөрү|API sazlamaları
+api_note|Maxfiy kalitlar .env faylida saqlanadi va bu yerda ko'rsatilmaydi.|Секретные ключи хранятся в .env и здесь не отображаются.|Secret keys live in the .env file and are never shown here.|Құпия кілттер .env файлында сақталады.|Купуя ачкычтар .env файлында сакталат.|Jasırın gilter .env faylında saqlanadı.
+configured|Sozlangan|Настроено|Configured|Бапталған|Жөндөлгөн|Sazlanǵan
+not_configured|Sozlanmagan|Не настроено|Not configured|Бапталмаған|Жөндөлгөн эмес|Sazlanbaǵan
+f_slug|Slug (URL)|Slug (URL)|Slug (URL)
+f_iso2|ISO kodi (2 harf)|ISO-код (2 буквы)|ISO code (2 letters)
+f_name|Nomi|Название|Name
+f_capital|Poytaxt|Столица|Capital
+f_summary|Umumiy ma'lumot|Общая информация|General information
+f_climate|Iqlim|Климат|Climate
+f_safety|Xavfsizlik|Безопасность|Safety
+f_customs|Urf-odatlar|Обычаи|Customs
+f_local_transport|Mahalliy transport|Местный транспорт|Local transport
+f_continent|Qit'a|Континент|Continent
+f_languages|Tillar|Языки|Languages
+f_currency_code|Valyuta kodi|Код валюты|Currency code
+f_timezone|Vaqt mintaqasi|Часовой пояс|Time zone
+f_best_season|Eng yaxshi mavsum|Лучший сезон|Best season
+f_travel_types|Sayohat turlari|Типы поездок|Travel types
+f_local_apps|Mahalliy ilovalar|Местные приложения|Local apps
+f_emergency_numbers|Favqulodda raqamlar|Экстренные номера|Emergency numbers
+f_daily_budget_budget|Kunlik xarajat: tejamkor (USD)|Расходы в день: бюджетно (USD)|Daily cost: budget (USD)
+f_daily_budget_comfort|Kunlik xarajat: qulay (USD)|Расходы в день: комфорт (USD)|Daily cost: comfortable (USD)
+f_daily_budget_luxury|Kunlik xarajat: hashamatli (USD)|Расходы в день: люкс (USD)|Daily cost: luxury (USD)
+f_lat|Kenglik (lat)|Широта (lat)|Latitude
+f_lng|Uzunlik (lng)|Долгота (lng)|Longitude
+f_image|Rasm|Изображение|Image
+f_gallery|Galereya|Галерея|Gallery
+f_popularity|Mashhurlik|Популярность|Popularity
+f_is_published|E'lon qilingan|Опубликовано|Published
+f_is_demo|Demo ma'lumot|Демо-данные|Demo data
+f_price_verified|Narx tasdiqlangan|Цена подтверждена|Price verified
+f_country_id|Mamlakat|Страна|Country
+f_city_id|Shahar|Город|City
+f_description|Tavsif|Описание|Description
+f_address|Manzil|Адрес|Address
+f_rating|Reyting|Рейтинг|Rating
+f_website|Veb-sayt|Сайт|Website
+f_category|Turkum|Категория|Category
+f_opening_hours|Ish vaqti|Часы работы|Opening hours
+f_entrance_usd|Kirish narxi (USD)|Стоимость входа (USD)|Entrance fee (USD)
+f_duration_min|Davomiyligi (daqiqa)|Длительность (мин)|Duration (min)
+f_transport_info|Transport ma'lumoti|Транспорт|Transport info
+f_type|Turi|Тип|Type
+f_price_usd|Narx / tun (USD)|Цена / ночь (USD)|Price / night (USD)
+f_stars|Yulduzlar|Звёзды|Stars
+f_facilities|Qulayliklar|Удобства|Facilities
+f_checkin|Check-in|Check-in|Check-in
+f_checkout|Check-out|Check-out|Check-out
+f_airport_km|Aeroportgacha (km)|До аэропорта (км)|To airport (km)
+f_booking_url|Bron qilish havolasi|Ссылка на бронирование|Booking URL
+f_cuisine|Oshxona turi|Тип кухни|Cuisine
+f_is_uzbek|O'zbek oshxonasi|Узбекская кухня|Uzbek cuisine
+f_is_halal|Halol|Халяль|Halal
+f_avg_meal_usd|O'rtacha ovqat narxi (USD)|Средний чек (USD)|Average meal (USD)
+f_phone|Telefon|Телефон|Phone
+f_code|Kod|Код|Code
+f_baggage_url|Yuk qoidalari havolasi|Ссылка на правила багажа|Baggage policy URL
+f_logo|Logotip|Логотип|Logo
+f_hub|Asosiy aeroport / hub|Основной хаб|Hub
+f_airline_id|Aviakompaniya|Авиакомпания|Airline
+f_from_city|Qayerdan|Откуда|From city
+f_to_city_id|Qaysi shaharga|В какой город|To city
+f_departure_time|Jo'nash vaqti|Время вылета|Departure time
+f_arrival_time|Kelish vaqti|Время прилёта|Arrival time
+f_is_direct|To'g'ridan-to'g'ri|Прямой|Direct
+f_transit|Transit|Пересадка|Transit
+f_baggage_kg|Yuk (kg)|Багаж (кг)|Baggage (kg)
+f_est_price_usd|Taxminiy narx (USD)|Ориентировочная цена (USD)|Estimated price (USD)
+f_is_sample|Namunaviy ma'lumot|Пример данных|Sample data
+f_status|Holat|Статус|Status
+f_max_stay_days|Maks. qolish (kun)|Макс. срок (дней)|Max stay (days)
+f_passport_validity|Pasport muddati|Срок паспорта|Passport validity
+f_documents|Kerakli hujjatlar|Необходимые документы|Required documents
+f_notes|Izohlar|Примечания|Notes
+f_insurance_required|Sug'urta talab etiladi|Нужна страховка|Insurance required
+f_official_url|Rasmiy havola|Официальная ссылка|Official URL
+f_source_url|Manba havolasi|Ссылка на источник|Source URL
+f_last_verified_at|Oxirgi tekshiruv sanasi|Дата последней проверки|Last verified date
+f_verification_status|Tekshiruv holati|Статус проверки|Verification status
+f_start_fare_usd|Boshlang'ich narx (USD)|Начальная стоимость (USD)|Starting fare (USD)
+f_per_km_usd|1 km narxi (USD)|Цена за км (USD)|Per km (USD)
+f_title|Sarlavha|Заголовок|Title
+f_excerpt|Qisqa tavsif|Краткое описание|Excerpt
+f_body|Matn|Текст|Body
+f_iata|IATA kodi|Код IATA|IATA code
+f_role|Rol|Роль|Role
+f_is_published|E'lon qilingan|Опубликовано|Published

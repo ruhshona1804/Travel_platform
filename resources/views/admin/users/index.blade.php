@@ -1,0 +1,7 @@
+@extends('layouts.admin', ['heading' => __('admin.users')])
+@section('content')
+<form class="mb-4 flex flex-wrap gap-2"><input name="q" value="{{ request('q') }}" class="input w-64" placeholder="{{ __('ui.search') }}"><select name="role" class="input w-44"><option value="">{{ __('ui.any') }}</option>@foreach(\App\Models\User::ROLES as $r)<option value="{{ $r }}" @selected(request('role') === $r)>{{ __("admin.role_$r") }}</option>@endforeach</select><button class="btn btn-ghost">{{ __('ui.filter') }}</button></form>
+<div class="card overflow-x-auto"><table class="table-x min-w-[640px]"><thead><tr><th>{{ __('ui.name') }}</th><th>{{ __('ui.email') }}</th><th>{{ __('admin.f_role') }}</th><th>{{ __('admin.f_status') }}</th><th>{{ __('admin.registered') }}</th><th></th></tr></thead>
+<tbody>@foreach($users as $u)<tr><td class="font-medium">{{ $u->name }}</td><td>{{ $u->email }}</td><td><span class="badge badge-info">{{ __('admin.role_'.$u->role) }}</span></td><td>@if($u->is_suspended)<span class="badge badge-warn">{{ __('admin.suspended') }}</span>@else<span class="badge badge-ok">{{ __('admin.active') }}</span>@endif</td><td class="text-xs text-slate-500">{{ $u->created_at->format('d.m.Y') }}</td><td class="text-right"><a class="btn btn-ghost btn-sm" href="{{ route('admin.users.show', $u) }}">{{ __('ui.open') }}</a></td></tr>@endforeach</tbody></table></div>
+<div class="mt-4">{{ $users->links() }}</div>
+@endsection

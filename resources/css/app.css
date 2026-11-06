@@ -1,0 +1,86 @@
+@import 'tailwindcss';
+@import 'leaflet/dist/leaflet.css';
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+    --font-sans: 'Segoe UI', ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Noto Color Emoji';
+    --color-ocean-50: #eef6fb;
+    --color-ocean-100: #d6e9f5;
+    --color-ocean-200: #aed3ea;
+    --color-ocean-400: #3b82b6;
+    --color-ocean-500: #1e6a9e;
+    --color-ocean-600: #14558a;
+    --color-ocean-700: #0e4272;
+    --color-ocean-800: #0a3157;
+    --color-ocean-900: #072341;
+    --color-turq-300: #5eead4;
+    --color-turq-400: #2dd4bf;
+    --color-turq-500: #14b8a6;
+    --color-turq-600: #0d9488;
+    --color-coral-400: #ff8a6b;
+    --color-coral-500: #ff6b4a;
+    --color-coral-600: #e9522f;
+    --color-navy: #0b1b34;
+    --color-mist: #f3f7fb;
+    --color-night: #0a1220;
+    --color-night-card: #121c2f;
+}
+
+@layer base {
+    html { scroll-behavior: smooth; }
+    body { @apply bg-mist text-navy antialiased dark:bg-night dark:text-slate-100; transition: background-color .25s, color .25s; }
+    h1, h2, h3 { @apply tracking-tight; }
+    [x-cloak] { display: none !important; }
+    :focus-visible { outline: 2px solid var(--color-turq-500); outline-offset: 2px; }
+}
+
+@layer components {
+    .container-x { @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8; }
+    .btn { @apply inline-flex items-center justify-center gap-2 rounded-xl px-5 py-2.5 text-sm font-semibold transition duration-200 focus-visible:outline-2 disabled:opacity-60 cursor-pointer; }
+    .btn-primary { @apply bg-ocean-600 text-white shadow-lg shadow-ocean-600/25 hover:bg-ocean-700 hover:-translate-y-0.5; }
+    .btn-accent { @apply bg-coral-500 text-white shadow-lg shadow-coral-500/30 hover:bg-coral-600 hover:-translate-y-0.5; }
+    .btn-ghost { @apply border border-slate-300 bg-white/70 text-navy hover:bg-white dark:border-slate-600 dark:bg-white/5 dark:text-slate-100 dark:hover:bg-white/10; }
+    .btn-danger { @apply bg-red-600 text-white hover:bg-red-700; }
+    .btn-sm { @apply px-3 py-1.5 text-xs; }
+    .card { @apply rounded-2xl border border-slate-200/70 bg-white shadow-sm dark:border-white/10 dark:bg-night-card; }
+    .card-hover { @apply transition duration-300 hover:-translate-y-1 hover:shadow-xl hover:shadow-ocean-900/10; }
+    .glass { @apply border border-white/30 bg-white/60 backdrop-blur-xl dark:border-white/10 dark:bg-night-card/70; }
+    .input { @apply w-full rounded-xl border border-slate-300 bg-white px-3.5 py-2.5 text-sm text-navy placeholder:text-slate-400 transition focus:border-turq-500 focus:ring-2 focus:ring-turq-500/30 focus:outline-none dark:border-slate-600 dark:bg-night dark:text-slate-100; }
+    .label { @apply mb-1.5 block text-sm font-medium text-slate-600 dark:text-slate-300; }
+    .badge { @apply inline-flex items-center gap-1 rounded-full px-2.5 py-0.5 text-xs font-medium; }
+    .badge-demo { @apply bg-amber-100 text-amber-800 dark:bg-amber-400/15 dark:text-amber-300; }
+    .badge-ok { @apply bg-emerald-100 text-emerald-800 dark:bg-emerald-400/15 dark:text-emerald-300; }
+    .badge-info { @apply bg-ocean-100 text-ocean-700 dark:bg-ocean-400/20 dark:text-ocean-200; }
+    .badge-warn { @apply bg-red-100 text-red-700 dark:bg-red-400/15 dark:text-red-300; }
+    .section-title { @apply text-2xl font-bold sm:text-3xl; }
+    .chip { @apply inline-flex items-center rounded-full border border-slate-300 bg-white px-3 py-1 text-sm transition hover:border-turq-500 dark:border-slate-600 dark:bg-night-card; }
+    .chip-active { @apply border-turq-500 bg-turq-500/10 text-turq-600 dark:text-turq-300; }
+    .nav-link { @apply rounded-lg px-3 py-2 text-sm font-medium text-slate-600 transition hover:bg-slate-100 hover:text-ocean-700 dark:text-slate-300 dark:hover:bg-white/10; }
+    .nav-link-active { @apply bg-ocean-50 text-ocean-700 dark:bg-white/10 dark:text-white; }
+    .prose-lite p { @apply mb-3 leading-relaxed; }
+    .prose-lite ul { @apply mb-3 list-disc pl-5; }
+    .table-x { @apply w-full text-left text-sm; }
+    .table-x th { @apply border-b border-slate-200 px-3 py-2 font-semibold text-slate-500 dark:border-white/10; }
+    .table-x td { @apply border-b border-slate-100 px-3 py-2.5 dark:border-white/5; }
+}
+
+.hero-bg {
+    background:
+        linear-gradient(135deg, rgba(7, 35, 65, .80) 0%, rgba(14, 66, 114, .65) 55%, rgba(20, 85, 138, .70) 100%),
+        url('/images/hero.png') center / cover no-repeat;
+}
+
+.skeleton { background: linear-gradient(90deg, rgba(148,163,184,.15) 25%, rgba(148,163,184,.3) 50%, rgba(148,163,184,.15) 75%); background-size: 200% 100%; animation: shimmer 1.4s infinite; border-radius: .75rem; }
+@keyframes shimmer { to { background-position: -200% 0; } }
+.fade-up { animation: fadeUp .6s ease both; }
+@keyframes fadeUp { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
+
+.leaflet-container { font-family: inherit; border-radius: 1rem; z-index: 0; }
+.dark .leaflet-tile { filter: brightness(.75) contrast(1.1) saturate(.85); }
+.map-pin { width: 28px; height: 28px; border-radius: 50% 50% 50% 0; transform: rotate(-45deg); border: 2px solid #fff; box-shadow: 0 2px 6px rgba(0,0,0,.35); display: grid; place-items: center; }
+.map-pin span { transform: rotate(45deg); font-size: 13px; line-height: 1; }

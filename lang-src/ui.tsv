@@ -1,0 +1,444 @@
+tagline|Sayohatni bitta platformada rejalashtiring|Планируйте путешествие на одной платформе|Plan your trip in one place|Саяхатты бір платформада жоспарлаңыз|Саякатты бир платформада пландаңыз|Sayaxattı bir platformada rejelestiriń
+skip_to_content|Asosiy tarkibga o'tish|Перейти к содержимому|Skip to content|Негізгі мазмұнға өту|Негизги мазмунга өтүү|Tiykarǵı mazmunǵa ótiw
+main_nav|Asosiy menyu|Главное меню|Main menu|Негізгі мәзір|Башкы меню|Tiykarǵı menyu
+menu|Menyu|Меню|Menu|Мәзір|Меню|Menyu
+nav_home|Bosh sahifa|Главная|Home|Басты бет|Башкы бет|Bas bet
+nav_countries|Mamlakatlar|Страны|Countries|Елдер|Өлкөлөр|Mámleketler
+nav_cities|Shaharlar|Города|Cities|Қалалар|Шаарлар|Qalalar
+nav_attractions|Diqqatga sazovor joylar|Достопримечательности|Attractions|Көрікті жерлер|Көрүнүктүү жерлер|Kórikli jerler
+nav_hotels|Mehmonxonalar|Отели|Hotels|Қонақүйлер|Мейманканалар|Meymanxanalar
+nav_restaurants|Restoranlar|Рестораны|Restaurants|Мейрамханалар|Ресторандар|Restoranlar
+nav_uzbek_food|Xorijda o'zbek taomlari|Узбекская кухня за границей|Uzbek food abroad|Шетелдегі өзбек тағамдары|Чет өлкөдөгү өзбек тамактары|Shet elde ózbek taǵamları
+nav_airlines|Aviakompaniyalar|Авиакомпании|Airlines|Әуекомпаниялар|Авиакомпаниялар|Aviakompaniyalar
+nav_visa|Viza|Виза|Visa|Виза|Виза|Viza
+nav_map|Xarita|Карта|Map|Карта|Карта|Karta
+nav_planner|Sayohat rejasi|План поездки|Trip planner|Саяхат жоспары|Саякат планы|Sayaxat rejesi
+nav_budget|Byudjet kalkulyatori|Калькулятор бюджета|Budget calculator|Бюджет калькуляторы|Бюджет калькулятору|Byudjet kalkulyatorı
+nav_currency|Valyuta kurslari|Курсы валют|Exchange rates|Валюта бағамдары|Валюта курстары|Valyuta kurslari
+nav_guides|Maslahatlar va qo'llanmalar|Советы и гиды|Tips and guides|Кеңестер мен нұсқаулықтар|Кеңештер жана колдонмолор|Másláhátler hám gidlar
+nav_dashboard|Shaxsiy kabinet|Личный кабинет|My dashboard|Жеке кабинет|Жеке кабинет|Jeke kabinet
+nav_admin|Admin panel|Панель администратора|Admin panel|Әкімші панелі|Администратор панели|Admin paneli
+language|Til|Язык|Language|Тіл|Тил|Til
+languages|Til|Языка|Languages|Тіл|Тил|Til
+currency|Valyuta|Валюта|Currency|Валюта|Валюта|Valyuta
+toggle_theme|Mavzuni almashtirish|Сменить тему|Toggle theme|Тақырыпты ауыстыру|Теманы алмаштыруу|Temanı almastırıw
+account|Hisob|Аккаунт|Account|Аккаунт|Аккаунт|Akkaunt
+login|Kirish|Войти|Log in|Кіру|Кирүү|Kiriw
+register|Ro'yxatdan o'tish|Регистрация|Sign up|Тіркелу|Катталуу|Dizimnen ótiw
+logout|Chiqish|Выйти|Log out|Шығу|Чыгуу|Shıǵıw
+close|Yopish|Закрыть|Close|Жабу|Жабуу|Jabıw
+cancel|Bekor qilish|Отмена|Cancel|Бас тарту|Жокко чыгаруу|Biykar etiw
+confirm|Tasdiqlash|Подтвердить|Confirm|Растау|Ырастоо|Tastıyıqlaw
+confirm_title|Tasdiqlang|Подтвердите действие|Please confirm|Растаңыз|Ырастаңыз|Tastıyıqlań
+confirm_delete|Haqiqatan ham o'chirmoqchimisiz? Bu amalni qaytarib bo'lmaydi.|Вы уверены, что хотите удалить? Это действие нельзя отменить.|Are you sure you want to delete this? This cannot be undone.|Шынымен жойғыңыз келе ме? Бұл әрекетті қайтару мүмкін емес.|Чындап эле өчүргүңүз келеби? Бул аракетти кайтаруу мүмкүн эмес.|Haqıyqatında óshirmekshisiz be? Bul ámeldi qaytarıp bolmaydı.
+delete|O'chirish|Удалить|Delete|Жою|Өчүрүү|Óshiriw
+edit|Tahrirlash|Редактировать|Edit|Өңдеу|Түзөтүү|Ózgertiw
+save|Saqlash|Сохранить|Save|Сақтау|Сактоо|Saqlaw
+saved|Saqlandi.|Сохранено.|Saved.|Сақталды.|Сакталды.|Saqlandı.
+deleted|O'chirildi.|Удалено.|Deleted.|Жойылды.|Өчүрүлдү.|Óshirildi.
+saved_label|Saqlangan|Сохранено|Saved|Сақталған|Сакталган|Saqlanǵan
+submit|Yuborish|Отправить|Submit|Жіберу|Жөнөтүү|Jiberiw
+continue|Davom etish|Продолжить|Continue|Жалғастыру|Улантуу|Dawam etiw
+open|Ochish|Открыть|Open|Ашу|Ачуу|Ashıw
+all|Hammasi|Все|All|Барлығы|Баары|Barlıǵı
+any|Farqi yo'q|Любой|Any|Кез келген|Каалаган|Qálegen
+filter|Filtrlash|Применить|Filter|Сүзу|Чыпкалоо|Filtrlew
+reset|Tozalash|Сбросить|Reset|Тазалау|Тазалоо|Tazalaw
+clear|Tozalash|Очистить|Clear|Тазалау|Тазалоо|Tazalaw
+search|Qidirish|Поиск|Search|Іздеу|Издөө|Izlew
+see_all|Hammasini ko'rish|Смотреть все|See all|Барлығын көру|Баарын көрүү|Barlıǵın kóriw
+empty|Hozircha ma'lumot yo'q.|Пока нет данных.|Nothing here yet.|Әзірге деректер жоқ.|Азырынча маалымат жок.|Házirshe maǵlıwmat joq.
+no_results|Hech narsa topilmadi.|Ничего не найдено.|Nothing found.|Ештеңе табылмады.|Эч нерсе табылган жок.|Hesh nárse tabılmadı.
+go_home|Bosh sahifaga qaytish|На главную|Back to home|Басты бетке оралу|Башкы бетке кайтуу|Bas betke qaytıw
+demo|Demo|Демо|Demo|Демо|Демо|Demo
+demo_data|Namunaviy (demo) ma'lumot|Демонстрационные данные|Demonstration data|Демонстрациялық деректер|Демо маалымат|Demonstraciyalıq maǵlıwmat
+estimate|Taxmin|Оценка|Estimate|Бағалау|Баалоо|Bahalaw
+estimate_hint|Narx tasdiqlanmagan, taxminiy hisoblanadi. Rasmiy manbada tekshiring.|Цена не подтверждена и является оценкой. Проверьте на официальном сайте.|Price is unverified and only an estimate. Check the official source.|Баға расталмаған, болжамды. Ресми дереккөзден тексеріңіз.|Баа тастыкталган эмес, болжолдуу. Расмий булактан текшериңиз.|Baha tastıyıqlanbaǵan, shama menen. Rásmiy deregden tekseriń.
+price|Narx|Цена|Price|Баға|Баа|Baha
+price_unknown|Narx ko'rsatilmagan|Цена не указана|Price not listed|Баға көрсетілмеген|Баа көрсөтүлгөн эмес|Baha kórsetilmegen
+per_night|/ tun|/ ночь|/ night|/ түн|/ түн|/ túni
+per_meal|/ ovqat|/ приём пищи|/ meal|/ тамақ|/ тамак|/ awqat
+per_day|Kuniga|В день|Per day|Күніне|Күнүнө|Kúnine
+per_person|Bir kishiga|На человека|Per person|Бір адамға|Бир адамга|Bir adamǵa
+per_person_day|kishi/kun|чел./день|person/day|адам/күн|адам/күн|adam/kún
+per_person_day_estimate|Bir kishi uchun kunlik taxminiy xarajat (tasdiqlanmagan).|Ориентировочные расходы на человека в день (не подтверждено).|Rough daily cost per person (unverified).|Бір адамға күндік болжамды шығын (расталмаған).|Бир адамга күнүнө болжолдуу чыгым (тастыкталган эмес).|Bir adam ushın kúnlik shama shıǵın (tastıyıqlanbaǵan).
+from_per_day|Taxminan kuniga|От / день|From / day|Күніне бастап|Күнүнө баштап|Kúnine baslap
+hero_badge|O'zbekistonlik sayohatchilar uchun|Для путешественников из Узбекистана|For travelers from Uzbekistan|Өзбекстандық саяхатшылар үшін|Өзбекстандык саякатчылар үчүн|Ózbekstanlı sayaxatshılar ushın
+hero_title|Sayohat qilish endi har qachongidan ham oson!|Путешествовать теперь проще, чем когда-либо!|Travelling is easier than ever!|Саяхат жасау бұрынғыдан да оңай!|Саякаттоо буга чейинкиден да оңой!|Sayaxat qılıw endi hár qashanǵıdan da ońay!
+hero_sub|Dunyoning istalgan nuqtasiga sayohatni rejalashtiring. Mehmonxonalar, restoranlar, aviachiptalar, transport va barcha kerakli ma'lumotlar — barchasi bitta platformada.|Планируйте поездку в любую точку мира. Отели, рестораны, авиабилеты, транспорт и вся нужная информация — на одной платформе.|Plan a trip to anywhere in the world. Hotels, restaurants, flights, transport and all the information you need — in one platform.|Әлемнің кез келген нүктесіне саяхатты жоспарлаңыз. Қонақүйлер, мейрамханалар, авиабилеттер, көлік және қажетті барлық ақпарат — бір платформада.|Дүйнөнүн каалаган чекитине саякатты пландаңыз. Мейманканалар, ресторандар, авиабилеттер, транспорт жана керектүү бардык маалымат — бир платформада.|Dúnyanıń qálegen noqatına sayaxattı rejelestiriń. Meymanxanalar, restoranlar, aviabiletler, transport hám barlıq kerekli maǵlıwmatlar — bir platformada.
+hero_cta_primary|Sayohatni boshlash|Начать путешествие|Start your trip|Саяхатты бастау|Саякатты баштоо|Sayaxattı baslaw
+hero_cta_secondary|Yo'nalishlarni ko'rish|Смотреть направления|Browse destinations|Бағыттарды көру|Багыттарды көрүү|Bağdarlardı kóriw
+search_form_title|Yo'nalish qidirish|Поиск направления|Find a destination|Бағыт іздеу|Багыт издөө|Bağdar izlew
+where_to|Qayerga borasiz?|Куда поедете?|Where to?|Қайда барасыз?|Кайда барасыз?|Qayaqqa barasız?
+search_placeholder|Mamlakat, shahar yoki joy nomi|Страна, город или место|Country, city or place|Ел, қала немесе орын|Өлкө, шаар же жер|Mámleket, qala yamasa jer
+search_min|Kamida 2 ta belgi kiriting.|Введите минимум 2 символа.|Enter at least 2 characters.|Кемінде 2 таңба енгізіңіз.|Кеминде 2 белги киргизиңиз.|Keminde 2 belgi kirgiziń.
+search_place|Joy qidirish|Найти место|Search a place|Орын іздеу|Жер издөө|Jer izlew
+cities|Shaharlar|Города|Cities|Қалалар|Шаарлар|Qalalar
+budget|Byudjet|Бюджет|Budget|Бюджет|Бюджет|Byudjet
+budget_low|Arzon (kuniga ~80$ gacha)|Недорого (до ~80$/день)|Low (up to ~$60/day)|Арзан (күніне ~80$ дейін)|Арзан (күнүнө ~80$ чейин)|Arzan (kúnine ~80$ ge shekem)
+budget_mid|O'rtacha (~80–150$)|Средний (~80–150$)|Medium (~$80–150)|Орташа (~80–150$)|Орточо (~80–150$)|Ortasha (~80–150$)
+budget_high|Qimmat (150$ dan yuqori)|Дорого (выше 150$)|High (over $120)|Қымбат (150$ жоғары)|Кымбат (150$ жогору)|Qımbat (150$ tan joqarı)
+travel_type|Sayohat turi|Тип поездки|Travel type|Саяхат түрі|Саякат түрү|Sayaxat túri
+season|Mavsum|Сезон|Season|Маусым|Мезгил|Máwsim
+season_spring|Bahor|Весна|Spring|Көктем|Жаз|Báhár
+season_summer|Yoz|Лето|Summer|Жаз|Жай|Jaz
+season_autumn|Kuz|Осень|Autumn|Күз|Күз|Gúz
+season_winter|Qish|Зима|Winter|Қыс|Кыш|Qıs
+visa|Viza|Виза|Visa|Виза|Виза|Viza
+vs_visa_free|Vizasiz|Без визы|Visa-free|Визасыз|Визасыз|Vizasız
+vs_visa_required|Viza kerak|Нужна виза|Visa required|Виза қажет|Виза керек|Viza kerek
+vs_on_arrival|Kelganda olinadi|Виза по прибытии|Visa on arrival|Келгенде алынады|Келгенде алынат|Kelgende alınadı
+vs_e_visa|Elektron viza|Электронная виза|E-visa|Электрондық виза|Электрондук виза|Elektron viza
+vs_check_official|Rasmiy manbada tekshiring|Проверьте официальный источник|Check official source|Ресми дереккөзден тексеріңіз|Расмий булактан текшериңиз|Rásmiy deregden tekseriń
+popular_countries|Mashhur mamlakatlar|Популярные страны|Popular countries|Танымал елдер|Белгилүү өлкөлөр|Belgili mámleketler
+popular_countries_sub|O'zbekistonliklar eng ko'p tanlaydigan yo'nalishlar|Направления, которые чаще всего выбирают узбекистанцы|Destinations most chosen by travelers from Uzbekistan|Өзбекстандықтар жиі таңдайтын бағыттар|Өзбекстандыктар көп тандаган багыттар|Ózbekstanlılar kóbirek tańlaytuǵın bağdarlar
+popular_destinations|Mashhur yo'nalishlar|Популярные направления|Popular destinations|Танымал бағыттар|Белгилүү багыттар|Belgili bağdarlar
+trending|Hozirgi trend yo'nalishlar|Сейчас в тренде|Trending now|Қазіргі трендтегі бағыттар|Азыркы трендди багыттар|Házirgi trend bağdarlar
+trending_sub|Eng ko'p qiziqish uyg'otayotgan joylar|Самые востребованные места|The most popular places right now|Ең көп қызығушылық тудырып жатқан орындар|Эң көп кызыгуу жаратып жаткан жерлер|Eń kóp qızıǵıwshılıq payda etip atırǵan jerler
+budget_friendly|Hamyonbop yo'nalishlar|Бюджетные направления|Budget-friendly destinations|Қалтаға қолайлы бағыттар|Чүнүңүзгө ылайыктуу багыттар|Hamiyanǵa qolaylı bağdarlar
+budget_friendly_sub|Kunlik xarajati kam mamlakatlar|Страны с низкими ежедневными расходами|Countries with lower daily costs|Күнделікті шығыны аз елдер|Күнүмдүк чыгымы аз өлкөлөр|Kúnlik shıǵını az mámleketler
+recommended_hotels|Tavsiya etilgan mehmonxonalar|Рекомендуемые отели|Recommended hotels|Ұсынылған қонақүйлер|Сунушталган мейманканалар|Usınılǵan meymanxanalar
+popular_restaurants|Mashhur restoranlar|Популярные рестораны|Popular restaurants|Танымал мейрамханалар|Белгилүү ресторандар|Belgili restoranlar
+uzbek_food_title|Xorijda o'zbek taomlarini qayerdan topish mumkin?|Где найти узбекскую кухню за границей?|Where to find Uzbek food abroad?|Шетелде өзбек тағамдарын қайдан табуға болады?|Чет өлкөдө өзбек тамактарын кайдан табууга болот?|Shet elde ózbek taǵamların qaydan tabıwǵa boladı?
+uzbek_food_sub|Tanish ta'm sizni xorijda ham kutmoqda: mamlakat va shahar bo'yicha o'zbek oshxonalari.|Знакомый вкус и за границей: узбекские рестораны по странам и городам.|A familiar taste abroad: Uzbek restaurants by country and city.|Шетелде де таныс дәм: ел мен қала бойынша өзбек ас үйлері.|Чет өлкөдө да тааныш даам: өлкө жана шаар боюнча өзбек ашканалары.|Shet elde de tanıs dám: mámleket hám qala boyınsha ózbek asxanaları.
+inspiration|Sayohat ilhomi|Вдохновение для поездки|Travel inspiration|Саяхатқа шабыт|Саякатка шыктануу|Sayaxatqa ilham
+inspiration_sub|Qiziqishingizga mos sayohat turini tanlang|Выберите тип поездки по интересам|Pick a travel style that matches your interests|Қызығушылығыңызға сай саяхат түрін таңдаңыз|Кызыгууңузга ылайык саякат түрүн тандаңыз|Qızıǵıwıńızǵa say sayaxat túrin tańlań
+map_preview|Interaktiv xarita|Интерактивная карта|Interactive map|Интерактивті карта|Интерактивдүү карта|Interaktiv karta
+open_map|Xaritani ochish|Открыть карту|Open the map|Картаны ашу|Картаны ачуу|Kartanı ashıw
+planner_title|Sun'iy intellekt bilan sayohat rejasi|План поездки с ИИ|AI-powered trip planner|Жасанды интеллектпен саяхат жоспары|Жасалма интеллект менен саякат планы|Jasalma intellekt penen sayaxat rejesi
+planner_sub|Byudjetingiz, qiziqishlaringiz va sanalaringizni kiriting — kunma-kun reja va taxminiy xarajatlarni oling.|Укажите бюджет, интересы и даты — получите план по дням и ориентировочные расходы.|Enter your budget, interests and dates — get a day-by-day plan and estimated costs.|Бюджетіңіз, қызығушылықтарыңыз бен күндеріңізді енгізіңіз — күнделікті жоспар мен болжамды шығындарды алыңыз.|Бюджетиңизди, кызыгууларыңызды жана күндөрдү киргизиңиз — күн сайынкы план жана болжолдуу чыгымдарды алыңыз.|Byudjetińiz, qızıǵıwlarıńız hám sanelerińizdi kirgiziń — kúnbe-kún reje hám shama shıǵınlardı alıń.
+planner_cta|Reja tuzish|Составить план|Create a plan|Жоспар құру|План түзүү|Reje dúziw
+planner_feat_flights|Parvoz variantlari|Варианты перелётов|Flight options|Рейс нұсқалары|Рейс варианттары|Reys variantları
+planner_feat_hotels|Turar joy tavsiyasi|Рекомендации по жилью|Accommodation suggestions|Тұрғын үй ұсыныстары|Жашоо жай сунуштары|Jaylasıw usınısları
+planner_feat_restaurants|Restoran tavsiyalari|Рекомендации ресторанов|Restaurant suggestions|Мейрамхана ұсыныстары|Ресторан сунуштары|Restoran usınısları
+planner_feat_attractions|Diqqatga sazovor joylar|Достопримечательности|Attractions|Көрікті жерлер|Көрүнүктүү жерлер|Kórikli jerler
+planner_feat_transport|Transport tavsiyalari|Рекомендации по транспорту|Transport suggestions|Көлік ұсыныстары|Транспорт сунуштары|Transport usınısları
+planner_feat_itinerary|Kunlik marshrut|Маршрут по дням|Daily itinerary|Күнделікті маршрут|Күн сайынкы маршрут|Kúnlik marshrut
+planner_feat_budget|Taxminiy byudjet|Ориентировочный бюджет|Estimated budget|Болжамды бюджет|Болжолдуу бюджет|Shama byudjet
+planner_feat_routes|Xaritadagi yo'nalishlar|Маршруты на карте|Routes on the map|Картадағы бағыттар|Картадагы маршруттар|Kartadaǵı bağdarlar
+travel_tips|Maslahatlar va qo'llanmalar|Советы и руководства|Travel tips and guides|Кеңестер мен нұсқаулықтар|Кеңештер жана колдонмолор|Másláhátler hám gidlar
+footer_about|Ushbu platforma O'zbekistondan chet elga sayohat qiluvchilarga yo'nalish, mehmonxona, restoran, transport va byudjet ma'lumotlarini bir joyda taqdim etadi. Platforma hech qanday aviakompaniya yoki sayohat kompaniyasiga tegishli emas.|Платформа собирает для путешественников из Узбекистана сведения о направлениях, отелях, ресторанах, транспорте и бюджете. Платформа не принадлежит ни одной авиакомпании или турфирме.|This platform brings destinations, hotels, restaurants, transport and budget information together for travelers from Uzbekistan. It is not owned by any airline or travel company.|Бұл платформа Өзбекстаннан шетелге саяхаттайтындарға бағыт, қонақүй, мейрамхана, көлік және бюджет туралы ақпаратты бір жерде ұсынады.|Бул платформа Өзбекстандан чет өлкөгө саякаттагандарга багыт, мейманкана, ресторан, транспорт жана бюджет маалыматын бир жерде сунуштайт.|Bul platforma Ózbekstannan shet elge sayaxatlawshılarǵa bağdar, meymanxana, restoran, transport hám byudjet maǵlıwmatların bir jerde usınadı.
+footer_explore|Kashf eting|Исследуйте|Explore|Ашыңыз|Таануу|Ashıń
+footer_tools|Vositalar|Инструменты|Tools|Құралдар|Куралдар|Qurallar
+footer_info|Muhim ma'lumot|Важная информация|Important|Маңызды ақпарат|Маанилүү маалымат|Áhmiyetli maǵlıwmat
+footer_disclaimer|Narxlar, viza qoidalari va reyslar o'zgarishi mumkin. Safardan oldin rasmiy manbalarni tekshiring.|Цены, визовые правила и рейсы могут меняться. Перед поездкой проверяйте официальные источники.|Prices, visa rules and flights may change. Check official sources before you travel.|Бағалар, виза ережелері және рейстер өзгеруі мүмкін. Сапарға дейін ресми дереккөздерді тексеріңіз.|Баалар, виза эрежелери жана рейстер өзгөрүшү мүмкүн. Сапардан мурун расмий булактарды текшериңиз.|Bahalar, viza qaǵıydaları hám reyslar ózgeriwi múmkin. Sapardan aldın rásmiy deregdi tekseriń.
+footer_rights|Barcha huquqlar himoyalangan.|Все права защищены.|All rights reserved.|Барлық құқықтар қорғалған.|Бардык укуктар корголгон.|Barlıq huqıqlar qorǵalǵan.
+map_credit|Xarita ma'lumotlari:|Данные карты:|Map data:|Карта деректері:|Карта маалыматы:|Karta maǵlıwmatları:
+compare_flights|Parvozlarni solishtirish|Сравнить перелёты|Compare flights|Рейстерді салыстыру|Рейстерди салыштыруу|Reyslerdi salıstırıw
+login_sub|Hisobingizga kiring|Войдите в свой аккаунт|Sign in to your account|Аккаунтыңызға кіріңіз|Аккаунтуңузга кириңиз|Akkauntıńızǵa kiriń
+register_sub|Saqlangan rejalar va sevimlilar uchun hisob oching|Создайте аккаунт для планов и избранного|Create an account for saved plans and favorites|Жоспарлар мен таңдаулыларды сақтау үшін аккаунт ашыңыз|Пландарды жана тандалмаларды сактоо үчүн аккаунт ачыңыз|Rejeler hám saylanǵanlardı saqlaw ushın akkaunt ashıń
+email|E-pochta|Эл. почта|Email|Электрондық пошта|Электрондук почта|Elektron pochta
+password|Parol|Пароль|Password|Құпия сөз|Сыр сөз|Parol
+password_confirm|Parolni tasdiqlang|Подтвердите пароль|Confirm password|Құпия сөзді растаңыз|Сыр сөздү ырастаңыз|Paroldı tastıyıqlań
+name|Ism|Имя|Name|Аты|Аты|Atı
+remember_me|Eslab qolish|Запомнить меня|Remember me|Мені есте сақтау|Мени эстеп калуу|Meni esinde saqlaw
+forgot_password|Parolni unutdingizmi?|Забыли пароль?|Forgot password?|Құпия сөзді ұмыттыңыз ба?|Сыр сөздү унуттуңузбу?|Parol esińizden shıqtı ma?
+no_account|Hisobingiz yo'qmi?|Нет аккаунта?|No account?|Аккаунтыңыз жоқ па?|Аккаунтуңуз жок бекен?|Akkauntıńız joq pa?
+have_account|Hisobingiz bormi?|Уже есть аккаунт?|Already have an account?|Аккаунтыңыз бар ма?|Аккаунтуңуз барбы?|Akkauntıńız bar ma?
+google_login|Google orqali kirish|Войти через Google|Continue with Google|Google арқылы кіру|Google аркылуу кирүү|Google arqalı kiriw
+google_not_configured|Google orqali kirish hali sozlanmagan.|Вход через Google пока не настроен.|Google sign-in is not configured yet.|Google арқылы кіру әлі бапталмаған.|Google аркылуу кирүү азырынча жөндөлгөн эмес.|Google arqalı kiriw házirshe sazlanbaǵan.
+err_google|Google orqali kirishda xatolik yuz berdi.|Ошибка входа через Google.|Google sign-in failed.|Google арқылы кіру кезінде қате болды.|Google аркылуу кирүүдө ката кетти.|Google arqalı kiriwde qátelik boldı.
+err_credentials|E-pochta yoki parol noto'g'ri.|Неверный email или пароль.|The email or password is incorrect.|Электрондық пошта немесе құпия сөз қате.|Электрондук почта же сыр сөз туура эмес.|Elektron pochta yamasa parol qate.
+err_suspended|Hisobingiz vaqtincha to'xtatilgan. Administrator bilan bog'laning.|Ваш аккаунт заблокирован. Свяжитесь с администратором.|Your account is suspended. Please contact an administrator.|Аккаунтыңыз тоқтатылған. Әкімшіге хабарласыңыз.|Аккаунтуңуз убактылуу токтотулган. Администратор менен байланышыңыз.|Akkauntıńız waqıtsha toqtatılǵan. Administrator menen baylanısıń.
+err_forbidden|Bu sahifaga kirish huquqingiz yo'q.|У вас нет доступа к этой странице.|You don't have access to this page.|Бұл бетке кіруге рұқсатыңыз жоқ.|Бул баракка кирүүгө укугуңуз жок.|Bul betke kiriw huqıqıńız joq.
+err_reset_token|Parolni tiklash havolasi yaroqsiz yoki muddati o'tgan.|Ссылка для сброса пароля недействительна или устарела.|The password reset link is invalid or expired.|Құпия сөзді қалпына келтіру сілтемесі жарамсыз немесе мерзімі өткен.|Сыр сөздү калыбына келтирүү шилтемеси жараксыз же мөөнөтү өткөн.|Parold tiklew siltemesi jaramsız yamasa múddeti ótken.
+err_last_super|Oxirgi Super Adminni o'chirib yoki pasaytirib bo'lmaydi.|Нельзя удалить или понизить последнего суперадминистратора.|The last Super Admin cannot be removed or demoted.|Соңғы Супер Әкімшіні жоюға немесе төмендетуге болмайды.|Акыркы Супер Администраторду өчүрүүгө же төмөндөтүүгө болбойт.|Aqırǵı Super Adminti óshiriwge yamasa tómenletiwge bolmaydı.
+err_self_change|O'z hisobingiz rolini o'zgartirib yoki o'chirib bo'lmaydi.|Нельзя изменить роль или удалить собственный аккаунт.|You cannot change or delete your own account here.|Өз аккаунтыңыздың рөлін өзгертуге немесе жоюға болмайды.|Өз аккаунтуңуздун ролун өзгөртүүгө же өчүрүүгө болбойт.|Óz akkauntıńızdıń rolin ózgertiwge yamasa óshiriwge bolmaydı.
+registered|Ro'yxatdan o'tdingiz. Xush kelibsiz!|Вы зарегистрированы. Добро пожаловать!|You're registered. Welcome!|Тіркелдіңіз. Қош келдіңіз!|Катталдыңыз. Кош келиңиз!|Dizimnen óttińiz. Xosh keldińiz!
+reset_link_sent|Agar bu e-pochta ro'yxatdan o'tgan bo'lsa, parolni tiklash havolasi yuborildi.|Если этот email зарегистрирован, ссылка для сброса пароля отправлена.|If this email is registered, a password reset link has been sent.|Егер бұл пошта тіркелген болса, құпия сөзді қалпына келтіру сілтемесі жіберілді.|Эгер бул почта катталган болсо, сыр сөздү калыбына келтирүү шилтемеси жөнөтүлдү.|Eger bul pochta dizimnen ótken bolsa, parold tiklew siltemesi jiberildi.
+forgot_sub|E-pochtangizni kiriting, tiklash havolasini yuboramiz.|Введите email — мы отправим ссылку для сброса.|Enter your email and we'll send a reset link.|Поштаңызды енгізіңіз, қалпына келтіру сілтемесін жібереміз.|Почтаңызды киргизиңиз, калыбына келтирүү шилтемесин жөнөтөбүз.|Pochtańızdı kirgiziń, tiklew siltemesin jiberemiz.
+send_reset_link|Tiklash havolasini yuborish|Отправить ссылку|Send reset link|Сілтемені жіберу|Шилтемени жөнөтүү|Siltemeni jiberiw
+reset_password|Parolni tiklash|Сброс пароля|Reset password|Құпия сөзді қалпына келтіру|Сыр сөздү калыбына келтирүү|Paroldı tiklew
+password_reset_done|Parol yangilandi. Endi kirishingiz mumkin.|Пароль обновлён. Теперь можно войти.|Password updated. You can now sign in.|Құпия сөз жаңартылды. Енді кіре аласыз.|Сыр сөз жаңыртылды. Эми кире аласыз.|Parol jańalandı. Endi kire alasız.
+verify_email|E-pochtani tasdiqlang|Подтвердите email|Verify your email|Поштаңызды растаңыз|Почтаңызды ырастаңыз|Pochtańızdı tastıyıqlań
+verify_sub|E-pochtangizga tasdiqlash havolasi yuborildi. Havolani bosing.|Мы отправили ссылку подтверждения на вашу почту. Перейдите по ней.|We emailed you a verification link. Please click it.|Поштаңызға растау сілтемесі жіберілді.|Почтаңызга ырастоо шилтемеси жөнөтүлдү.|Pochtańızǵa tastıyıqlaw siltemesi jiberildi.
+verify_banner|E-pochtangiz hali tasdiqlanmagan.|Ваш email ещё не подтверждён.|Your email is not verified yet.|Поштаңыз әлі расталмаған.|Почтаңыз азырынча ырасталган эмес.|Pochtańız házirshe tastıyıqlanbaǵan.
+resend_verification|Havolani qayta yuborish|Отправить ссылку повторно|Resend verification|Сілтемені қайта жіберу|Шилтемени кайра жөнөтүү|Siltemeni qayta jiberiw
+verification_sent|Tasdiqlash havolasi yuborildi.|Ссылка подтверждения отправлена.|Verification link sent.|Растау сілтемесі жіберілді.|Ырастоо шилтемеси жөнөтүлдү.|Tastıyıqlaw siltemesi jiberildi.
+email_verified|E-pochta tasdiqlandi.|Email подтверждён.|Email verified.|Пошта расталды.|Почта ырасталды.|Pochta tastıyıqlandı.
+welcome_user|Xush kelibsiz, :name!|Добро пожаловать, :name!|Welcome, :name!|Қош келдіңіз, :name!|Кош келиңиз, :name!|Xosh keldińiz, :name!
+favorites|Sevimlilar|Избранное|Favorites|Таңдаулылар|Тандалмалар|Saylanǵanlar
+my_plans|Mening rejalarim|Мои планы|My plans|Менің жоспарларым|Менин пландарым|Meniń rejelerim
+my_budgets|Mening byudjetlarim|Мои бюджеты|My budgets|Менің бюджеттерім|Менин бюджеттерим|Meniń byudjetlerim
+notifications|Bildirishnomalar|Уведомления|Notifications|Хабарламалар|Билдирмелер|Xabarlandırıwlar
+profile|Profil|Профиль|Profile|Профиль|Профиль|Profil
+recent_plans|So'nggi rejalar|Последние планы|Recent plans|Соңғы жоспарлар|Акыркы пландар|Sońǵı rejeler
+no_plans|Hali saqlangan reja yo'q.|Сохранённых планов пока нет.|No saved plans yet.|Сақталған жоспар әлі жоқ.|Сакталган план азырынча жок.|Saqlanǵan reje házirshe joq.
+no_budgets|Hali saqlangan byudjet yo'q.|Сохранённых бюджетов пока нет.|No saved budgets yet.|Сақталған бюджет әлі жоқ.|Сакталган бюджет азырынча жок.|Saqlanǵan byudjet házirshe joq.
+no_favorites|Hali sevimlilar yo'q.|В избранном пока пусто.|No favorites yet.|Таңдаулылар әлі жоқ.|Тандалмалар азырынча жок.|Saylanǵanlar házirshe joq.
+no_notifications|Bildirishnomalar yo'q.|Уведомлений нет.|No notifications.|Хабарламалар жоқ.|Билдирмелер жок.|Xabarlandırıwlar joq.
+mark_read|Hammasini o'qilgan deb belgilash|Отметить все прочитанными|Mark all as read|Барлығын оқылған деп белгілеу|Баарын окулду деп белгилөө|Barlıǵın oqılǵan dep belgilew
+notif_welcome_title|Xush kelibsiz!|Добро пожаловать!|Welcome!|Қош келдіңіз!|Кош келиңиз!|Xosh keldińiz!
+notif_welcome_body|Birinchi sayohat rejangizni tuzishni boshlang.|Начните составлять свой первый план поездки.|Start building your first trip plan.|Алғашқы саяхат жоспарыңызды құруды бастаңыз.|Биринчи саякат планыңызды түзүүнү баштаңыз.|Birinshi sayaxat rejeńizdi dúziwdi baslań.
+profile_photo|Profil rasmi|Фото профиля|Profile photo|Профиль суреті|Профиль сүрөтү|Profil suwreti
+theme|Mavzu|Тема|Theme|Тақырып|Тема|Tema
+theme_system|Tizim bo'yicha|Как в системе|System|Жүйе бойынша|Системадагыдай|Sistema boyınsha
+theme_light|Yorug'|Светлая|Light|Жарық|Жарык|Jaqtı
+theme_dark|Qorong'i|Тёмная|Dark|Қараңғы|Караңгы|Qarańǵı
+change_password|Parolni o'zgartirish|Сменить пароль|Change password|Құпия сөзді өзгерту|Сыр сөздү өзгөртүү|Paroldı ózgertiw
+current_password|Joriy parol|Текущий пароль|Current password|Ағымдағы құпия сөз|Учурдагы сыр сөз|Házirgi parol
+new_password|Yangi parol|Новый пароль|New password|Жаңа құпия сөз|Жаңы сыр сөз|Jańa parol
+delete_account|Hisobni o'chirish|Удалить аккаунт|Delete account|Аккаунтты жою|Аккаунтту өчүрүү|Akkauntı óshiriw
+delete_account_warn|Hisobingiz va barcha saqlangan ma'lumotlaringiz butunlay o'chiriladi. Tasdiqlash uchun parolingizni kiriting.|Ваш аккаунт и все сохранённые данные будут удалены навсегда. Введите пароль для подтверждения.|Your account and all saved data will be permanently deleted. Enter your password to confirm.|Аккаунтыңыз бен барлық деректер біржола жойылады. Растау үшін құпия сөзді енгізіңіз.|Аккаунтуңуз жана бардык маалымат биротоло өчүрүлөт. Ырастоо үчүн сыр сөздү киргизиңиз.|Akkauntıńız hám barlıq maǵlıwmatlar máńgilikke óshiriledi. Tastıyıqlaw ushın paroldı kirgiziń.
+account_deleted|Hisobingiz o'chirildi.|Ваш аккаунт удалён.|Your account has been deleted.|Аккаунтыңыз жойылды.|Аккаунтуңуз өчүрүлдү.|Akkauntıńız óshirildi.
+add_favorite|Sevimlilarga qo'shish|Добавить в избранное|Add to favorites|Таңдаулыларға қосу|Тандалмаларга кошуу|Saylanǵanlarǵa qosıw
+remove_favorite|Sevimlilardan olib tashlash|Убрать из избранного|Remove from favorites|Таңдаулылардан алып тастау|Тандалмалардан алып салуу|Saylanǵanlardan alıp taslaw
+fav_added|Sevimlilarga qo'shildi.|Добавлено в избранное.|Added to favorites.|Таңдаулыларға қосылды.|Тандалмаларга кошулду.|Saylanǵanlarǵa qosıldı.
+fav_removed|Sevimlilardan olib tashlandi.|Удалено из избранного.|Removed from favorites.|Таңдаулылардан алынды.|Тандалмалардан алынды.|Saylanǵanlardan alındı.
+review_saved|Sharhingiz saqlandi.|Ваш отзыв сохранён.|Your review has been saved.|Пікіріңіз сақталды.|Пикириңиз сакталды.|Pikirińiz saqlandı.
+reviews|Sharhlar|Отзывы|Reviews|Пікірлер|Пикирлер|Pikirler
+no_reviews|Hali sharhlar yo'q.|Отзывов пока нет.|No reviews yet.|Пікірлер әлі жоқ.|Пикирлер азырынча жок.|Pikirler házirshe joq.
+your_review|Sharhingiz|Ваш отзыв|Your review|Сіздің пікіріңіз|Сиздин пикириңиз|Sizdiń pikirińiz
+login_to_review|Sharh qoldirish uchun tizimga kiring|Войдите, чтобы оставить отзыв|Log in to leave a review|Пікір қалдыру үшін кіріңіз|Пикир калтыруу үчүн кириңиз|Pikir qaldırıw ushın kiriń
+rating|Reyting|Рейтинг|Rating|Рейтинг|Рейтинг|Reyting
+country|Mamlakat|Страна|Country|Ел|Өлкө|Mámleket
+city|Shahar|Город|City|Қала|Шаар|Qala
+attraction|Diqqatga sazovor joy|Достопримечательность|Attraction|Көрікті жер|Көрүнүктүү жер|Kórikli jer
+hotel|Mehmonxona|Отель|Hotel|Қонақүй|Мейманкана|Meymanxana
+restaurant|Restoran|Ресторан|Restaurant|Мейрамхана|Ресторан|Restoran
+countries_sub|Viza, byudjet, mavsum va sayohat turi bo'yicha mamlakatni toping.|Находите страны по визе, бюджету, сезону и типу поездки.|Find a country by visa, budget, season and travel type.|Виза, бюджет, маусым және саяхат түрі бойынша елді табыңыз.|Виза, бюджет, мезгил жана саякат түрү боюнча өлкөнү табыңыз.|Viza, byudjet, máwsim hám sayaxat túri boyınsha mámleketti tabıń.
+attractions_sub|Tarixiy joylar, muzeylar, tabiat va ko'ngilochar maskanlar.|Исторические места, музеи, природа и развлечения.|Historic sites, museums, nature and entertainment.|Тарихи орындар, мұражайлар, табиғат және ойын-сауық.|Тарыхый жерлер, музейлер, табигат жана көңүл ачуу.|Tariyxıy jerler, muzeyler, tábiyat hám kewil ashıw.
+hotels_sub|Byudjetdan hashamatligacha — turar joy variantlarini solishtiring.|От бюджетных до люксовых — сравнивайте варианты жилья.|From budget to luxury — compare places to stay.|Бюджеттіден сәнділеуге дейін — тұратын жерді салыстырыңыз.|Бюджеттикден люкске чейин — жашоо жайларды салыштырыңыз.|Byudjetten sándeligine shekem — jaylasıw variantların salıstırıń.
+restaurants_sub|Mahalliy, halol va o'zbek oshxonalari.|Местная, халяльная и узбекская кухня.|Local, halal and Uzbek cuisine.|Жергілікті, халал және өзбек асханасы.|Жергиликтүү, халал жана өзбек ашканасы.|Jergilikli, halal hám ózbek asxanaları.
+country_or_city|Mamlakat yoki shahar|Страна или город|Country or city|Ел немесе қала|Өлкө же шаар|Mámleket yamasa qala
+continent|Qit'a|Континент|Continent|Құрлық|Континент|Qıtʼa
+continent_asia|Osiyo|Азия|Asia|Азия|Азия|Aziya
+continent_europe|Yevropa|Европа|Europe|Еуропа|Европа|Evropa
+continent_africa|Afrika|Африка|Africa|Африка|Африка|Afrika
+continent_north_america|Shimoliy Amerika|Северная Америка|North America|Солтүстік Америка|Түндүк Америка|Arqa Amerika
+continent_south_america|Janubiy Amerika|Южная Америка|South America|Оңтүстік Америка|Түштүк Америка|Qubla Amerika
+continent_oceania|Okeaniya|Океания|Oceania|Мұхит аралдары|Океания|Okeaniya
+category|Turkum|Категория|Category|Санат|Категория|Kategoriya
+max_price|Maks. narx|Макс. цена|Max price|Макс. баға|Макс. баа|Maks. baha
+min_rating|Min. reyting|Мин. рейтинг|Min. rating|Мин. рейтинг|Мин. рейтинг|Min. reyting
+sort|Saralash|Сортировка|Sort|Сұрыптау|Иреттөө|Saralaw
+sort_popularity|Ommabop|Популярные|Popularity|Танымалдық|Популярдуулук|Ommabop
+sort_rating|Reyting bo'yicha|По рейтингу|Rating|Рейтинг бойынша|Рейтинг боюнча|Reyting boyınsha
+sort_price|Narx bo'yicha|По цене|Price|Баға бойынша|Баа боюнча|Baha boyınsha
+list|Ro'yxat|Список|List|Тізім|Тизме|Dizim
+capital|Poytaxt|Столица|Capital|Астана|Борбор шаар|Paytaxt
+general_info|Umumiy ma'lumot|Общая информация|General information|Жалпы ақпарат|Жалпы маалымат|Ulıwma maǵlıwmat
+climate|Iqlim|Климат|Climate|Климат|Климат|Klimat
+safety|Xavfsizlik|Безопасность|Safety|Қауіпсіздік|Коопсуздук|Qáwipsizlik
+customs|Mahalliy urf-odatlar va maslahatlar|Местные обычаи и советы|Local customs and tips|Жергілікті әдет-ғұрып және кеңестер|Жергиликтүү салттар жана кеңештер|Jergilikli ádet-ǵurıplar hám másláhátler
+local_transport|Mahalliy transport|Местный транспорт|Local transportation|Жергілікті көлік|Жергиликтүү транспорт|Jergilikli transport
+popular_cities|Mashhur shaharlar|Популярные города|Popular cities|Танымал қалалар|Белгилүү шаарлар|Belgili qalalar
+plan_trip|Sayohat rejalash|Спланировать поездку|Plan a trip|Саяхатты жоспарлау|Саякатты пландоо|Sayaxattı rejelestiriw
+quick_facts|Qisqa ma'lumot|Кратко|Quick facts|Қысқаша мәлімет|Кыскача маалымат|Qısqasha maǵlıwmat
+languages_label|Tillar|Языки|Languages|Тілдер|Тилдер|Tiller
+timezone|Vaqt mintaqasi|Часовой пояс|Time zone|Уақыт белдеуі|Убакыт алкагы|Waqıt beldewi
+best_season|Eng yaxshi mavsum|Лучший сезон|Best season|Ең жақсы маусым|Эң жакшы мезгил|Eń jaqsı máwsim
+avg_expenses|O'rtacha xarajatlar|Средние расходы|Average expenses|Орташа шығындар|Орточо чыгымдар|Ortasha shıǵınlar
+emergency|Favqulodda raqamlar|Экстренные номера|Emergency numbers|Шұғыл нөмірлер|Шашылыш номерлер|Shuǵıl nomerler
+local_apps|Foydali mahalliy ilovalar|Полезные местные приложения|Useful local apps|Пайдалы жергілікті қолданбалар|Пайдалуу жергиликтүү колдонмолор|Paydalı jergilikli qosımshalar
+airports|Aeroportlar|Аэропорты|Airports|Әуежайлар|Аэропорттор|Aeroportlar
+transport|Transport|Транспорт|Transport|Көлік|Транспорт|Transport
+flights|Reyslar|Рейсы|Flights|Рейстер|Рейстер|Reyslar
+visa_for_uz|O'zbekiston fuqarolari uchun viza|Виза для граждан Узбекистана|Visa for citizens of Uzbekistan|Өзбекстан азаматтарына арналған виза|Өзбекстан жарандары үчүн виза|Ózbekstan puqaraları ushın viza
+visa_sub|Har bir mamlakat bo'yicha viza holati, tekshirilgan sana va rasmiy manba.|Статус визы, дата проверки и официальный источник по каждой стране.|Visa status, verification date and official source for every country.|Әр ел бойынша виза мәртебесі, тексерілген күні және ресми дереккөз.|Ар бир өлкө боюнча виза абалы, текшерилген күнү жана расмий булак.|Hár bir mámleket boyınsha viza jaǵdayı, tekserilgen sáne hám rásmiy derek.
+visa_no_data|Bu mamlakat uchun viza ma'lumoti hali kiritilmagan. Rasmiy manbani tekshiring.|Данные о визе для этой страны ещё не внесены. Проверьте официальный источник.|No visa information has been added for this country yet. Check the official source.|Бұл ел үшін виза ақпараты әлі енгізілмеген.|Бул өлкө үчүн виза маалыматы азырынча киргизилген эмес.|Bul mámleket ushın viza maǵlıwmatı házirshe kirgizilmegen.
+visa_warning|Immigratsiya qoidalari o'zgarib turadi. Safardan oldin albatta davlatning rasmiy manbasida viza talablarini tekshiring.|Иммиграционные правила меняются. Перед поездкой обязательно проверьте требования на официальном сайте государства.|Immigration rules change. Always check visa requirements on the official government source before you travel.|Иммиграциялық ережелер өзгеріп тұрады. Сапарға дейін виза талаптарын мемлекеттің ресми дереккөзінен міндетті түрде тексеріңіз.|Иммиграциялык эрежелер өзгөрүп турат. Сапардан мурун виза талаптарын мамлекеттин расмий булагынан сөзсүз текшериңиз.|Immigraciya qaǵıydaları ózgerip turadı. Sapardan aldın viza talapların mámleketlik rásmiy deregden tekseriń.
+verif_verified|Tekshirilgan|Проверено|Verified|Тексерілген|Текшерилген|Tekserilgen
+verif_unverified|Tekshirilmagan|Не проверено|Unverified|Тексерілмеген|Текшерилген эмес|Tekserilmegen
+verif_demo|Namunaviy|Демонстрационные|Demo|Демо|Демо|Demo
+verification|Tekshiruv holati|Статус проверки|Verification|Тексеру күйі|Текшерүү абалы|Tekseriw jaǵdayı
+last_verified|Oxirgi tekshiruv|Последняя проверка|Last verified|Соңғы тексеру|Акыркы текшерүү|Aqırǵı tekseriw
+not_verified|Tekshirilmagan|Не проверено|Not verified|Тексерілмеген|Текшерилген эмес|Tekserilmegen
+max_stay|Maksimal yashash muddati|Максимальный срок пребывания|Maximum stay|Ең ұзақ болу мерзімі|Эң узак болуу мөөнөтү|Eń uzaq bolıw múddeti
+passport_validity|Pasport amal qilish muddati|Срок действия паспорта|Passport validity|Паспорттың жарамдылық мерзімі|Паспорттун жарамдуулук мөөнөтү|Pasport jaramlılıq múddeti
+insurance|Sayohat sug'urtasi|Туристическая страховка|Travel insurance|Саяхат сақтандыруы|Саякат камсыздандыруусу|Sayaxat qáwipsizlendiriwi
+required|Talab etiladi|Требуется|Required|Қажет|Талап кылынат|Talap etiledi
+not_required|Talab etilmaydi|Не требуется|Not required|Қажет емес|Талап кылынбайт|Talap etilmeydi
+required_docs|Kerakli hujjatlar|Необходимые документы|Required documents|Қажетті құжаттар|Керектүү документтер|Kerekli hújjetler
+official_source|Rasmiy manba|Официальный источник|Official source|Ресми дереккөз|Расмий булак|Rásmiy derek
+source|Manba|Источник|Source|Дереккөз|Булак|Derek
+details|Tafsilotlar|Подробности|Details|Мәліметтер|Чоо-жайы|Tafsilatlar
+address|Manzil|Адрес|Address|Мекенжай|Дарек|Mánzil
+opening_hours|Ish vaqti|Часы работы|Opening hours|Жұмыс уақыты|Иштөө убактысы|Jumıs waqtı
+entrance|Kirish narxi|Стоимость входа|Entrance fee|Кіру бағасы|Кирүү баасы|Kiriw bahası
+duration|Davomiyligi|Длительность|Duration|Ұзақтығы|Узактыгы|Dawamlılıǵı
+min|daqiqa|мин|min|мин|мүн|min
+website|Veb-sayt|Сайт|Website|Веб-сайт|Веб-сайт|Veb-sayt
+phone|Telefon|Телефон|Phone|Телефон|Телефон|Telefon
+checkin|Kirish (check-in)|Заезд (check-in)|Check-in|Кіру (check-in)|Кирүү (check-in)|Kiriw (check-in)
+checkout|Chiqish (check-out)|Выезд (check-out)|Check-out|Шығу (check-out)|Чыгуу (check-out)|Shıǵıw (check-out)
+airport_distance|Aeroportgacha masofa|Расстояние до аэропорта|Distance to airport|Әуежайға дейінгі қашықтық|Аэропортко чейинки аралык|Aeroportqa shekemgi aralıq
+book_external|Tashqi saytda band qilish|Забронировать на внешнем сайте|Book on external site|Сыртқы сайтта брондау|Тышкы сайтта брондоо|Sırtqı saytta bronlaw
+no_availability|Platforma xonalar bandligini ko'rsatmaydi. Mavjudlik va narxni bron qilish saytida tekshiring.|Платформа не показывает наличие номеров. Проверьте наличие и цену на сайте бронирования.|This platform does not show room availability. Check availability and price on the booking site.|Платформа бөлмелердің бос екенін көрсетпейді. Қолжетімділік пен бағаны брондау сайтында тексеріңіз.|Платформа бөлмөлөрдүн бош экенин көрсөтпөйт. Баа менен жеткиликтүүлүктү брондоо сайтынан текшериңиз.|Platforma bólmelerdiń bos ekenin kórsetpeydi. Bahanı hám bar ekenin bronlaw saytında tekseriń.
+cuisine|Oshxona turi|Тип кухни|Cuisine|Ас үй түрі|Ашкана түрү|Asxana túri
+avg_meal|O'rtacha ovqat narxi|Средний чек|Average meal price|Орташа тамақ бағасы|Орточо тамак баасы|Ortasha awqat bahası
+uzbek|O'zbek oshxonasi|Узбекская кухня|Uzbek cuisine|Өзбек асханасы|Өзбек ашканасы|Ózbek asxanası
+halal|Halol|Халяль|Halal|Халал|Халал|Halal
+nearby|Yaqin atrofda|Поблизости|Nearby|Жақын маңда|Жакын жерде|Jaqın átirapta
+similar|O'xshash joylar|Похожие места|Similar places|Ұқсас орындар|Окшош жерлер|Uqsas jerler
+get_directions|Yo'l ko'rsatish|Построить маршрут|Get directions|Бағыт салу|Маршрут түзүү|Jol kórsetiw
+no_map_data|Bu joy uchun xarita ma'lumoti mavjud emas.|Для этого места нет данных на карте.|No map data is available for this place.|Бұл орын үшін карта деректері жоқ.|Бул жер үчүн карта маалыматы жок.|Bul jer ushın karta maǵlıwmatı joq.
+tr_taxi|Taksi|Такси|Taxi|Такси|Такси|Taksi
+tr_airport_transfer|Aeroport transferi|Трансфер из аэропорта|Airport transfer|Әуежай трансфері|Аэропорт трансфери|Aeroport transferi
+tr_metro|Metro|Метро|Metro|Метро|Метро|Metro
+tr_bus|Avtobus|Автобус|Bus|Автобус|Автобус|Avtobus
+tr_train|Poyezd|Поезд|Train|Пойыз|Поезд|Poyezd
+tr_tram|Tramvay|Трамвай|Tram|Трамвай|Трамвай|Tramvay
+tr_car_rental|Avtomobil ijarasi|Аренда авто|Car rental|Көлік жалдау|Унаа ижарасы|Avtomobil ijarası
+tr_intercity|Shaharlararo|Междугородний|Intercity|Қалааралық|Шаарлар аралык|Qalalar aralıq
+start_fare|Boshlang'ich narx|Начальная стоимость|Starting fare|Бастапқы баға|Баштапкы баа|Baslanǵısh baha
+per_km|1 km narxi|Цена за 1 км|Per km|1 км бағасы|1 км баасы|1 km bahası
+cat_historical|Tarixiy|Исторические|Historical|Тарихи|Тарыхый|Tariyxıy
+cat_museum|Muzey|Музей|Museum|Мұражай|Музей|Muzey
+cat_nature|Tabiat|Природа|Nature|Табиғат|Табигат|Tábiyat
+cat_mountain|Tog'lar|Горы|Mountains|Таулар|Тоолор|Taw
+cat_beach|Plyaj|Пляж|Beach|Жағажай|Пляж|Plyaj
+cat_park|Park|Парк|Park|Саябақ|Парк|Park
+cat_religious|Diniy|Религиозные|Religious|Діни|Диний|Diniy
+cat_entertainment|Ko'ngilochar|Развлечения|Entertainment|Ойын-сауық|Көңүл ачуу|Kewil ashıw
+cat_shopping|Xarid|Шопинг|Shopping|Сауда|Соода|Sawda
+cat_family|Oilaviy|Семейный|Family|Отбасылық|Үй-бүлөлүк|Shańaraqlıq
+cat_cultural|Madaniy|Культурные|Cultural|Мәдени|Маданий|Mádeniy
+cat_budget|Arzon|Бюджетный|Budget|Бюджеттік|Бюджеттик|Arzan
+cat_luxury|Hashamatli|Люкс|Luxury|Сәнді|Люкс|Sándeli
+cat_hostel|Hostel|Хостел|Hostel|Хостел|Хостел|Xostel
+cat_apartment|Apartament|Апартаменты|Apartment|Апартамент|Апартамент|Apartament
+cat_guesthouse|Mehmon uyi|Гостевой дом|Guest house|Қонақ үй|Конок үй|Meyman úy
+cat_resort|Kurort|Курорт|Resort|Курорт|Курорт|Kurort
+cat_uzbek|O'zbek|Узбекская|Uzbek|Өзбек|Өзбек|Ózbek
+cat_halal|Halol|Халяль|Halal|Халал|Халал|Halal
+cat_local|Mahalliy|Местная|Local|Жергілікті|Жергиликтүү|Jergilikli
+cat_international|Xalqaro|Интернациональная|International|Халықаралық|Эл аралык|Xalıq aralıq
+cat_fastfood|Fast-fud|Фастфуд|Fast food|Фастфуд|Фастфуд|Fast-fud
+cat_cafe|Kafe|Кафе|Cafe|Кафе|Кафе|Kafe
+cat_premium|Premium|Премиум|Premium|Премиум|Премиум|Premium
+airline|Aviakompaniya|Авиакомпания|Airline|Әуекомпания|Авиакомпания|Aviakompaniya
+airlines_sub|Rasmiy saytlar va yo'nalishlar bo'yicha ma'lumot.|Официальные сайты и информация о маршрутах.|Official websites and route information.|Ресми сайттар және бағыттар туралы ақпарат.|Расмий сайттар жана багыттар жөнүндө маалымат.|Rásmiy saytlar hám bağdarlar haqqında maǵlıwmat.
+independent_notice|Platforma mustaqil va hech bir aviakompaniyaga tegishli emas. Biz chipta sotmaymiz va bron qilmaymiz — rasmiy saytlarga yo'naltiramiz.|Платформа независима и не принадлежит ни одной авиакомпании. Мы не продаём и не бронируем билеты — перенаправляем на официальные сайты.|This platform is independent and not owned by any airline. We do not sell or book tickets — we link to official websites.|Платформа тәуелсіз және ешбір әуекомпанияға тиесілі емес. Біз билет сатпаймыз — ресми сайттарға бағыттаймыз.|Платформа көз карандысыз жана бир дагы авиакомпанияга таандык эмес. Биз билет сатпайбыз — расмий сайттарга багыттайбыз.|Platforma ǵárezsiz hám hesh bir aviakompaniyaǵa tiyisli emes. Biz bilet satpaymız — rásmiy saytlarǵa baǵdarlaymız.
+airline_demo_note|Ta'rif umumiy; aniq reyslar va narxlar uchun rasmiy saytga qarang.|Описание общее; точные рейсы и цены смотрите на официальном сайте.|General description; see the official website for exact flights and prices.|Сипаттама жалпы; нақты рейстер мен бағаларды ресми сайттан қараңыз.|Сүрөттөмө жалпы; так рейстер менен баалар үчүн расмий сайтты караңыз.|Táripler ulıwma; anıq reyslar hám bahalar ushın rásmiy saytqa qarań.
+official_website|Rasmiy veb-sayt|Официальный сайт|Official website|Ресми веб-сайт|Расмий веб-сайт|Rásmiy veb-sayt
+baggage_policy|Yuk qoidalari|Правила багажа|Baggage policy|Багаж ережелері|Жүк эрежелери|Júk qaǵıydaları
+routes|Yo'nalishlar|Маршруты|Routes|Бағыттар|Багыттар|Bağdarlar
+official_sites|Rasmiy saytlar|Официальные сайты|Official websites|Ресми сайттар|Расмий сайттар|Rásmiy saytlar
+choose_destination|Solishtirish uchun yo'nalishni tanlang.|Выберите направление для сравнения.|Choose a destination to compare.|Салыстыру үшін бағытты таңдаңыз.|Салыштыруу үчүн багытты тандаңыз.|Salıstırıw ushın bağdardı tańlań.
+destination|Yo'nalish|Направление|Destination|Бағыт|Багыт|Bağdar
+compare|Solishtirish|Сравнить|Compare|Салыстыру|Салыштыруу|Salıstırıw
+from|Qayerdan|Откуда|From|Қайдан|Кайдан|Qayerden
+to|Qayerga|Куда|To|Қайда|Кайда|Qayaqqa
+departure|Jo'nash|Вылет|Departure|Ұшу|Учуп чыгуу|Ushıw
+arrival|Kelish|Прилёт|Arrival|Келу|Келүү|Keliw
+stops|To'xtashlar|Пересадки|Stops|Аялдамалар|Токтоп өтүү|Toqtawlar
+direct|To'g'ridan-to'g'ri|Прямой|Direct|Тікелей|Түз|Tuwrıdan-tuwrı
+connecting|Transit|С пересадкой|Connecting|Транзитпен|Транзит менен|Tranzit
+baggage|Yuk|Багаж|Baggage|Жүк|Жүк|Júk
+sample|Namuna|Пример|Sample|Үлгі|Үлгү|Úlgi
+no_flights|Bu yo'nalish bo'yicha reys ma'lumoti yo'q.|Нет данных о рейсах по этому направлению.|No flight data for this destination.|Бұл бағыт бойынша рейс деректері жоқ.|Бул багыт боюнча рейс маалыматы жок.|Bul bağdar boyınsha reys maǵlıwmatı joq.
+flights_disclaimer|Ko'rsatilgan narxlar va davomiylik taxminiy (namuna). Haqiqiy jadval va narxlarni aviakompaniyaning rasmiy saytida tekshiring.|Цены и длительность — ориентировочные (пример). Актуальное расписание и цены смотрите на официальном сайте авиакомпании.|Prices and durations shown are estimates (samples). Check real schedules and prices on the airline's official site.|Көрсетілген бағалар мен ұзақтық болжамды (үлгі). Нақты кесте мен бағаны әуекомпанияның ресми сайтынан тексеріңіз.|Көрсөтүлгөн баалар жана узактык болжолдуу (үлгү). Чыныгы тартип менен баанын расмий сайттан текшериңиз.|Kórsetilgen bahalar hám dawamlılıq shama (úlgi). Haqıyqıy keste hám bahanı aviakompaniyanıń rásmiy saytında tekseriń.
+flights_no_live|Jonli parvoz ma'lumotlari provayderi ulanmagan. Jadvalda faqat namunaviy ma'lumotlar ko'rsatilgan; haqiqiy jadval va narxlar uchun rasmiy saytlarga o'ting.|Провайдер актуальных данных о рейсах не подключён. В таблице только примеры; актуальные рейсы и цены — на официальных сайтах.|No live flight-data provider is connected. The table shows sample data only; use the official websites for real schedules and prices.|Нақты рейс деректерінің провайдері қосылмаған. Кестеде тек үлгі деректер көрсетілген.|Түз рейс маалыматынын провайдери туташтырылган эмес. Таблицада үлгү маалымат гана көрсөтүлгөн.|Tikkeley reys maǵlıwmatı provayderi jalǵanbaǵan. Kestede tek úlgi maǵlıwmatlar kórsetilgen.
+flights_not_included|parvoz kiritilmagan|перелёт не включён|flights not included|ұшу кірмеген|учуу кирген эмес|ushıw kirmegen
+route_planner|Marshrut rejalashtirish|Планирование маршрута|Route planner|Бағыт жоспарлау|Маршрут пландоо|Marshrut rejelestiriw
+route_hint|Nuqtalarni tanlash yoqilgach, xaritadagi belgilarni ketma-ket bosing.|Включите выбор точек и нажимайте маркеры на карте по порядку.|Enable point selection, then click markers on the map in order.|Нүктелерді таңдауды қосып, картадағы белгілерді ретімен басыңыз.|Чекиттерди тандоону иштетип, картадагы белгилерди иретине жараша басыңыз.|Noqatlardı tańlawdı qosıp, kartadaǵı belgilerdi izbe-iz basıń.
+select_points|Nuqtalarni tanlash|Выбирать точки|Select points|Нүктелерді таңдау|Чекиттерди тандоо|Noqatlardı tańlaw
+total_distance|Umumiy masofa|Общее расстояние|Total distance|Жалпы қашықтық|Жалпы аралык|Ulıwma aralıq
+straight_line|To'g'ri chiziq bo'yicha taxminiy masofa.|Приблизительное расстояние по прямой.|Approximate straight-line distance.|Түзу сызық бойынша шамамен қашықтық.|Түз сызык боюнча болжолдуу аралык.|Tuwrı sızıq boyınsha shama aralıq.
+markers|ta belgi|меток|markers|белгі|белги|belgi
+currency_sub|Kurslar avtomatik yangilanadi. Eskirgan bo'lsa, ogohlantirish ko'rsatiladi.|Курсы обновляются автоматически. Если данные устарели, будет предупреждение.|Rates update automatically. A warning is shown if they are outdated.|Бағамдар автоматты түрде жаңартылады. Ескірсе, ескерту көрсетіледі.|Курстар автоматтык түрдө жаңыланат. Эскирсе, эскертүү көрсөтүлөт.|Kurslar avtomat túrde jańalanadı. Eskirse, eskertiw kórsetiledi.
+amount|Miqdor|Сумма|Amount|Сома|Сумма|Muǵdar
+result|Natija|Результат|Result|Нәтиже|Натыйжа|Nátiyje
+rates_stale|Kurslar eskirgan bo'lishi mumkin: jonli kurs yangilanmagan. So'nggi saqlangan qiymatlar ishlatilmoqda.|Курсы могут быть устаревшими: актуальные данные не обновлялись. Используются последние сохранённые значения.|Rates may be outdated: live rates were not refreshed. The last saved values are used.|Бағамдар ескірген болуы мүмкін: нақты бағам жаңартылмаған.|Курстар эскирген болушу мүмкүн: түз курс жаңыланган эмес.|Kurslar eskirgen bolıwı múmkin: tikkeley kurs jańalanbaǵan.
+rates_live|Kurslar yangilangan: :time.|Курсы обновлены: :time.|Rates updated: :time.|Бағамдар жаңартылды: :time.|Курстар жаңыланды: :time.|Kurslar jańalandı: :time.
+rates_updated|Kurslar yangilandi.|Курсы обновлены.|Rates updated.|Бағамдар жаңартылды.|Курстар жаңыланды.|Kurslar jańalandı.
+rates_failed|Kurslarni yangilab bo'lmadi. Oxirgi saqlangan kurslar ishlatiladi.|Не удалось обновить курсы. Используются последние сохранённые.|Could not refresh rates. The last saved rates are used.|Бағамдарды жаңарту мүмкін болмады.|Курстарды жаңылоо мүмкүн болгон жок.|Kurslardı jańalaw múmkin bolmadı.
+ai_title|AI yordamchi|AI-помощник|AI assistant|AI көмекші|AI жардамчы|AI járdemshi
+ai_greeting|Salom! Sayohat bo'yicha savolingizni yozing — o'zingiz yozgan tilda javob beraman.|Здравствуйте! Задайте вопрос о путешествии — отвечу на том языке, на котором вы пишете.|Hi! Ask me a travel question — I'll answer in the language you write in.|Сәлем! Саяхат туралы сұрағыңызды жазыңыз — сіз жазған тілде жауап беремін.|Салам! Саякат тууралуу суроо жазыңыз — сиз жазган тилде жооп берем.|Sálem! Sayaxat haqqında sorawıńızdı jazıń — siz jazǵan tilde juwap beremen.
+ai_placeholder|Savolingizni yozing…|Напишите вопрос…|Type your question…|Сұрағыңызды жазыңыз…|Суроону жазыңыз…|Sorawıńızdı jazıń…
+ai_not_configured|AI yordamchi hozircha sozlanmagan (AI_API_KEY kerak). Shu paytgacha «Sayohat rejasi» bo'limidan foydalaning.|AI-помощник пока не настроен (нужен AI_API_KEY). Пока используйте раздел «План поездки».|The AI assistant is not configured yet (AI_API_KEY required). Meanwhile, use the trip planner.|AI көмекші әлі бапталмаған (AI_API_KEY қажет).|AI жардамчы азырынча жөндөлгөн эмес (AI_API_KEY керек).|AI járdemshi házirshe sazlanbaǵan (AI_API_KEY kerek).
+ai_unavailable|AI yordamchi hozir javob bera olmadi. Keyinroq urinib ko'ring.|AI-помощник сейчас недоступен. Попробуйте позже.|The AI assistant is unavailable right now. Please try again later.|AI көмекші қазір жауап бере алмады.|AI жардамчы азыр жооп бере алган жок.|AI járdemshi házir juwap bere almadı.
+ai_enabled|AI yoqilgan: reja matnlari sun'iy intellekt yordamida boyitiladi.|ИИ включён: тексты плана дополняются искусственным интеллектом.|AI is enabled: plan texts are enriched with AI.|AI қосулы: жоспар мәтіндері жасанды интеллектпен толықтырылады.|AI иштетилген: план тексттери жасалма интеллект менен байытылат.|AI qosılǵan: reje tekstleri jasalma intellekt járdeminde bayıtıladı.
+ai_rule_based|AI sozlanmagan — reja qoidalarga asoslangan hisoblash bilan tuziladi (baza ma'lumotlari asosida).|AI не настроен — план составляется по правилам на основе данных из базы.|AI is not configured — the plan is built by rules from the database.|AI бапталмаған — жоспар ережелер бойынша дерекқор негізінде жасалады.|AI жөндөлгөн эмес — план эрежелер боюнча маалымат базасынын негизинде түзүлөт.|AI sazlanbaǵan — reje qaǵıydalarǵa tiykarlanıp maǵlıwmatlar bazası tiykarında dúziledi.
+departure_city|Jo'nash shahri|Город вылета|Departure city|Шығу қаласы|Чыгуу шаары|Ketiw qalası
+start_date|Jo'nash sanasi|Дата вылета|Departure date|Шығу күні|Чыгуу күнү|Ketiw sánesi
+end_date|Qaytish sanasi|Дата возвращения|Return date|Қайту күні|Кайтуу күнү|Qaytıw sánesi
+travelers|Sayohatchilar soni|Количество путешественников|Travelers|Саяхатшылар саны|Саякатчылар саны|Sayaxatshılar sanı
+children|Bolalar soni|Количество детей|Children|Балалар саны|Балдар саны|Balalar sanı
+total_budget|Umumiy byudjet|Общий бюджет|Total budget|Жалпы бюджет|Жалпы бюджет|Ulıwma byudjet
+travel_style|Sayohat uslubi|Стиль поездки|Travel style|Саяхат стилі|Саякат стили|Sayaxat stili
+style_budget|Tejamkor|Бюджетный|Budget|Үнемді|Үнөмдүү|Úkemli
+style_comfortable|Qulay|Комфортный|Comfortable|Жайлы|Ыңгайлуу|Qolaylı
+style_luxury|Hashamatli|Люкс|Luxury|Сәнді|Люкс|Sándeli
+style_family|Oilaviy|Семейный|Family|Отбасылық|Үй-бүлөлүк|Shańaraqlıq
+style_adventure|Sarguzasht|Приключения|Adventure|Шытырман оқиға|Укмуштуу окуя|Sarguzasht
+style_historical|Tarixiy|Исторический|Historical|Тарихи|Тарыхый|Tariyxıy
+style_shopping|Xarid|Шопинг|Shopping|Сауда|Соода|Sawda
+style_religious|Ziyorat turizmi|Паломничество|Religious tourism|Діни туризм|Диний туризм|Ziyarat turizmi
+interests|Qiziqishlar|Интересы|Interests|Қызығушылықтар|Кызыгуулар|Qızıǵıwshılıqlar
+interest_history|Tarix|История|History|Тарих|Тарых|Tariyx
+interest_nature|Tabiat|Природа|Nature|Табиғат|Табигат|Tábiyat
+interest_religion|Din|Религия|Religion|Дін|Дин|Din
+interest_shopping|Xarid|Шопинг|Shopping|Сауда|Соода|Sawda
+interest_family|Oila|Семья|Family|Отбасы|Үй-бүлө|Shańaraq
+interest_adventure|Sarguzasht|Приключения|Adventure|Шытырман оқиға|Укмуштуу окуя|Sarguzasht
+interest_culture|Madaniyat|Культура|Culture|Мәдениет|Маданият|Mádeniyat
+accommodation|Turar joy|Жильё|Accommodation|Тұратын жер|Жашоо жай|Jaylasıw
+transport_pref|Transport afzalligi|Предпочтения по транспорту|Transport preference|Көлік таңдауы|Транспорт тандоосу|Transport tańlawı
+transport_taxi|Taksi|Такси|Taxi|Такси|Такси|Taksi
+transport_public|Jamoat transporti|Общественный транспорт|Public transport|Қоғамдық көлік|Коомдук транспорт|Jámiyetlik transport
+transport_mixed|Aralash|Смешанный|Mixed|Аралас|Аралаш|Aralas
+food_pref|Ovqat afzalligi|Предпочтения в еде|Food preferences|Тамақ таңдауы|Тамак тандоосу|Awqat tańlawı
+food_uzbek|O'zbek taomlari|Узбекская кухня|Uzbek food|Өзбек тағамдары|Өзбек тамактары|Ózbek taǵamları
+food_halal|Halol|Халяль|Halal|Халал|Халал|Halal
+food_local|Mahalliy|Местная|Local|Жергілікті|Жергиликтүү|Jergilikli
+food_international|Xalqaro|Интернациональная|International|Халықаралық|Эл аралык|Xalıq aralıq
+generate_plan|Rejani yaratish|Создать план|Generate plan|Жоспарды жасау|Планды түзүү|Rejeni jaratıw
+generated_ai|AI yordamida boyitilgan|Дополнено ИИ|Enriched with AI|AI көмегімен толықтырылған|AI жардамы менен байытылган|AI járdemi menen bayıtılǵan
+generated_rules|Qoidalar asosida tuzilgan|Составлено по правилам|Rule-based|Ережелер бойынша жасалған|Эрежелер боюнча түзүлгөн|Qaǵıydalar tiykarında dúzilgen
+register_to_save|Saqlash uchun ro'yxatdan o'ting|Зарегистрируйтесь, чтобы сохранить|Sign up to save|Сақтау үшін тіркеліңіз|Сактоо үчүн катталыңыз|Saqlaw ushın dizimnen ótiń
+print|Chop etish|Печать|Print|Басып шығару|Басып чыгаруу|Shıǵarıw
+new_plan|Yangi reja|Новый план|New plan|Жаңа жоспар|Жаңы план|Jańa reje
+people|kishi|чел.|people|адам|адам|adam
+days_short|kun|дн.|days|күн|күн|kún
+days|Kunlar|Дни|Days|Күндер|Күндөр|Kúnler
+nights|tun|ночей|nights|түн|түн|túni
+rooms|xona|номер(а)|rooms|бөлме|бөлмө|bólme
+estimated_total|Taxminiy umumiy xarajat|Ориентировочная общая стоимость|Estimated total|Болжамды жалпы шығын|Болжолдуу жалпы чыгым|Shama ulıwma shıǵın
+over_budget|Byudjetdan oshadi|Превышает бюджет|Over budget|Бюджеттен асады|Бюджеттен ашат|Byudjetten asadı
+within_budget|Byudjet doirasida|В рамках бюджета|Within budget|Бюджет шегінде|Бюджет чегинде|Byudjet sheńberinde
+travel_tips_title|Sayohat maslahatlari|Советы для поездки|Travel tips|Саяхат кеңестері|Саякат кеңештери|Sayaxat másláhátleri
+plan_disclaimer|Barcha xarajatlar taxminiy. Parvoz, mehmonxona bandligi, narxlar va viza qoidalari tasdiqlanmagan — bron qilishdan oldin rasmiy manbalarda tekshiring.|Все расходы ориентировочные. Перелёты, наличие отелей, цены и визовые правила не подтверждены — проверьте на официальных источниках перед бронированием.|All costs are estimates. Flights, hotel availability, prices and visa rules are not confirmed — check official sources before booking.|Барлық шығындар болжамды. Рейс, қонақүй, баға және виза ережелері расталмаған.|Бардык чыгымдар болжолдуу. Рейс, мейманкана, баа жана виза эрежелери тастыкталган эмес.|Barlıq shıǵınlar shama. Reys, meymanxana, baha hám viza qaǵıydaları tastıyıqlanbaǵan.
+plan_day|:n-kun|:n-й день|Day :n|:n-күн|:n-күн|:n-kún
+plan_checkin|Mehmonxonaga joylashish|Заселение в отель|Hotel check-in|Қонақүйге орналасу|Мейманканага жайгашуу|Meymanxanaǵa jaylasıw
+plan_price_unknown|Kirish narxi ko'rsatilmagan|Стоимость входа не указана|Entrance fee not listed|Кіру бағасы көрсетілмеген|Кирүү баасы көрсөтүлгөн эмес|Kiriw bahası kórsetilmegen
+plan_uzbek_food|O'zbek taomlari|Узбекская кухня|Uzbek food|Өзбек тағамдары|Өзбек тамактары|Ózbek taǵamları
+plan_local_transport|Mahalliy transport|Местный транспорт|Local transport|Жергілікті көлік|Жергиликтүү транспорт|Jergilikli transport
+plan_estimate|Taxminiy|Ориентировочно|Estimate|Болжамды|Болжолдуу|Shama
+plan_tip_prices|Reja narxlari taxminiy — haqiqiy narxlarni bron qilishdan oldin tekshiring.|Цены в плане ориентировочные — проверяйте реальные цены перед бронированием.|Plan prices are estimates — check real prices before booking.|Жоспар бағалары болжамды — брондар алдында нақты бағаны тексеріңіз.|План баалары болжолдуу — брондоодон мурун чыныгы баанын текшериңиз.|Reje bahaları shama — bronlawdan aldın haqıyqıy bahanı tekseriń.
+plan_tip_visa|Sayohatdan oldin viza va hujjat talablarini rasmiy manbada tekshiring.|Перед поездкой проверьте визовые и документальные требования на официальных источниках.|Check visa and document requirements on official sources before you travel.|Сапарға дейін виза және құжат талаптарын ресми дереккөзден тексеріңіз.|Сапардан мурун виза жана документ талаптарын расмий булактан текшериңиз.|Sapardan aldın viza hám hújjet talapların rásmiy deregden tekseriń.
+plan_tip_over|Taxminiy xarajat byudjetdan taxminan :diff $ ga oshadi. Arzonroq turar joy yoki kamroq kun tanlab ko'ring.|Ориентировочные расходы превышают бюджет примерно на :diff $. Попробуйте более дешёвое жильё или меньше дней.|Estimated cost exceeds your budget by roughly $:diff. Try cheaper accommodation or fewer days.|Болжамды шығын бюджеттен шамамен :diff $ асады.|Болжолдуу чыгым бюджеттен болжол менен :diff $ ашат.|Shama shıǵın byudjetten shama menen :diff $ asadı.
+budget_sub|Sayohat xarajatlarini kiriting — jami, kishi boshiga va kunlik summalarni ko'ring.|Введите расходы — увидите итог, сумму на человека и в день.|Enter your costs — see totals, per person and per day.|Шығындарды енгізіңіз — жалпы, адам басына және күніне сомаларды көріңіз.|Чыгымдарды киргизиңиз — жалпы, адам башына жана күнүнө суммаларды көрүңүз.|Shıǵınlardı kirgiziń — ulıwma, adam basına hám kúnine somalardı kóriń.
+bc_flights|Aviachiptalar|Авиабилеты|Flight tickets|Авиабилеттер|Авиабилеттер|Aviabiletler
+bc_accommodation|Turar joy|Проживание|Accommodation|Тұру|Жашоо|Jaylasıw
+bc_food|Ovqat|Питание|Food|Тамақ|Тамак|Awqat
+bc_taxi|Taksi|Такси|Taxi|Такси|Такси|Taksi
+bc_public_transport|Jamoat transporti|Общественный транспорт|Public transport|Қоғамдық көлік|Коомдук транспорт|Jámiyetlik transport
+bc_attractions|Diqqatga sazovor joylar|Достопримечательности|Attractions|Көрікті жерлер|Көрүнүктүү жерлер|Kórikli jerler
+bc_shopping|Xarid|Шопинг|Shopping|Сауда|Соода|Sawda
+bc_insurance|Sug'urta|Страховка|Insurance|Сақтандыру|Камсыздандыруу|Qáwipsizlendiriw
+bc_other|Boshqa|Прочее|Other|Басқа|Башка|Basqa
+budget_estimate_note|Bu yerdagi summalar siz kiritgan yoki taxminiy qiymatlar; tasdiqlangan narxlar emas.|Суммы здесь — введённые вами или ориентировочные значения, а не подтверждённые цены.|Amounts here are values you entered or estimates, not confirmed prices.|Мұндағы сомалар — өзіңіз енгізген немесе болжамды мәндер.|Бул жердеги суммалар — өзүңүз киргизген же болжолдуу маанилер.|Bul jerdegi somalar — ózińiz kirgizgen yamasa shama mánisler.
+save_budget|Byudjetni saqlash|Сохранить бюджет|Save budget|Бюджетті сақтау|Бюджетти сактоо|Byudjetti saqlaw
+login_to_save|Saqlash uchun kiring|Войдите, чтобы сохранить|Log in to save|Сақтау үшін кіріңіз|Сактоо үчүн кириңиз|Saqlaw ushın kiriń
+total|Jami|Итого|Total|Барлығы|Жалпы|Jámi
+title|Sarlavha|Название|Title|Атауы|Аталышы|Ataması
+my_trip|Mening sayohatim|Моя поездка|My trip|Менің саяхатым|Менин саякатым|Meniń sayaxatım
+budget_breakdown|Byudjet taqsimoti|Структура бюджета|Budget breakdown|Бюджет құрылымы|Бюджет түзүмү|Byudjet bólistiriliwi
+can_i_travel|Pulim yetadimi? (Mamlakat bo'yicha tekshirish)|Хватит ли денег? (проверка по стране)|Can I afford it? (check by country)|Ақшам жете ме? (ел бойынша тексеру)|Акчам жетеби? (өлкө боюнча текшерүү)|Aqsham jetedi me? (mámleket boyınsha tekseriw)
+check|Tekshirish|Проверить|Check|Тексеру|Текшерүү|Tekseriw
+budget_enough|Byudjet kamida bitta uslubga yetadi (taxminan).|Бюджета хватает минимум на один стиль (ориентировочно).|Your budget covers at least one style (roughly).|Бюджет кемінде бір стильге жетеді (шамамен).|Бюджет жок дегенде бир стилге жетет (болжол менен).|Byudjet keminde bir stilge jetedi (shama menen).
+budget_not_enough|Bu byudjet ushbu muddat va kishi soni uchun yetmasligi mumkin (taxminan).|Такого бюджета, вероятно, не хватит на этот срок и количество людей (ориентировочно).|This budget probably isn't enough for this duration and group size (roughly).|Бұл бюджет осы мерзім мен адам санына жетпеуі мүмкін.|Бул бюджет бул мөөнөт жана адам санына жетпеши мүмкүн.|Bul byudjet usı múddet hám adam sanına jetpewi múmkin.
+err_title_403|Ruxsat yo'q|Доступ запрещён|Access denied|Рұқсат жоқ|Уруксат жок|Ruxsat joq
+err_text_403|Bu sahifani ko'rishga huquqingiz yo'q.|У вас нет прав для просмотра этой страницы.|You don't have permission to view this page.|Бұл бетті көруге құқығыңыз жоқ.|Бул баракты көрүүгө укугуңуз жок.|Bul betti kóriwge huqıqıńız joq.
+err_title_404|Sahifa topilmadi|Страница не найдена|Page not found|Бет табылмады|Барак табылган жок|Bet tabılmadı
+err_text_404|Siz izlagan sahifa mavjud emas yoki ko'chirilgan.|Страница, которую вы ищете, не существует или была перемещена.|The page you're looking for doesn't exist or has moved.|Сіз іздеген бет жоқ немесе көшірілген.|Сиз издеген барак жок же көчүрүлгөн.|Siz izlegen bet joq yamasa kóshirilgen.
+err_title_419|Sessiya muddati tugadi|Сессия истекла|Session expired|Сессия мерзімі аяқталды|Сессия мөөнөтү бүттү|Sessiya múddeti tawsıldı
+err_text_419|Sahifani yangilab, amalni qayta urinib ko'ring.|Обновите страницу и повторите действие.|Refresh the page and try again.|Бетті жаңартып, қайта көріңіз.|Баракты жаңылап, кайра аракет кылыңыз.|Betti jańalap, qayta urınıp kóriń.
+err_title_429|Juda ko'p so'rov|Слишком много запросов|Too many requests|Тым көп сұраныс|Өтө көп сурам|Juda kóp sorawlar
+err_text_429|Iltimos, birozdan so'ng qayta urinib ko'ring.|Пожалуйста, повторите попытку через некоторое время.|Please try again in a moment.|Сәлден соң қайта көріңіз.|Бир аздан кийин кайра аракет кылыңыз.|Biraz waqıttan soń qayta urınıp kóriń.
+err_title_500|Serverda xatolik|Ошибка сервера|Server error|Сервер қатесі|Сервер катасы|Server qátesi
+err_text_500|Nimadir noto'g'ri ketdi. Biz muammoni hal qilyapmiz; birozdan so'ng qayta urinib ko'ring.|Что-то пошло не так. Мы уже решаем проблему; попробуйте позже.|Something went wrong. We're working on it; please try again shortly.|Бірдеңе дұрыс болмады. Сәлден соң қайта көріңіз.|Бир нерсе туура эмес болду. Бир аздан кийин кайра аракет кылыңыз.|Bir nárse dus ketpedi. Biraz waqıttan soń qayta urınıp kóriń.
+err_title_503|Texnik ishlar|Технические работы|Under maintenance|Техникалық жұмыстар|Техникалык иштер|Texnikalıq jumıslar
+err_text_503|Sayt vaqtincha mavjud emas. Birozdan so'ng qayta kiring.|Сайт временно недоступен. Зайдите чуть позже.|The site is temporarily unavailable. Please come back shortly.|Сайт уақытша қолжетімсіз.|Сайт убактылуу жеткиликсиз.|Sayt waqıtsha qoljetimsiz.

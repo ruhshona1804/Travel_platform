@@ -1,0 +1,3 @@
+<!DOCTYPE html><html lang="uz"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>500</title>
+<style>body{font-family:system-ui,sans-serif;background:#f3f7fb;color:#0b1b34;display:grid;place-items:center;min-height:100vh;margin:0;text-align:center}h1{font-size:4rem;margin:0;color:#14558a}a{display:inline-block;margin-top:1rem;padding:.6rem 1.2rem;background:#14558a;color:#fff;border-radius:.75rem;text-decoration:none}@media(prefers-color-scheme:dark){body{background:#0a1220;color:#e2e8f0}}</style></head>
+<body><div><h1>500</h1><p>{{ __('ui.err_text_500') }}</p><a href="/">{{ __('ui.go_home') }}</a></div></body></html>
