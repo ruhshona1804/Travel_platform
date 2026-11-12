@@ -16,5 +16,7 @@ WORKDIR /var/www/html
 COPY . .
 COPY --from=assets /app/public/build public/build
 RUN composer install --no-dev --optimize-autoloader --no-scripts \
- && chown -R www-data:www-data storage bootstrap/cache
+ && touch database/database.sqlite \
+ && chown -R www-data:www-data storage bootstrap/cache database
 EXPOSE 10000
+CMD ["sh", "-c", "php artisan migrate --force; apache2-foreground"]
